@@ -1,4 +1,5 @@
-create table if not exists articles (
-    id serial primary key,
-    text text
+CREATE TABLE IF NOT EXISTS articles
+(
+    id   SERIAL PRIMARY KEY,
+    text TEXT
 );

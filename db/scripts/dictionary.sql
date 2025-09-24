@@ -1,4 +1,5 @@
-create table if not exists dictionary (
-    id serial primary key,
-    word text
+CREATE TABLE IF NOT EXISTS dictionary
+(
+    id   SERIAL PRIMARY KEY,
+    word TEXT
 );

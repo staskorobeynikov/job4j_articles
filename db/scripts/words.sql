@@ -1,1000 +1,2000 @@
-insert into dictionary(word) values('абакаб');
-insert into dictionary(word) values('абалан');
-insert into dictionary(word) values('абанец');
-insert into dictionary(word) values('абарис');
-insert into dictionary(word) values('абдест');
-insert into dictionary(word) values('абезум');
-insert into dictionary(word) values('абирам');
-insert into dictionary(word) values('авиваж');
-insert into dictionary(word) values('авидин');
-insert into dictionary(word) values('агамия');
-insert into dictionary(word) values('агатеа');
-insert into dictionary(word) values('адагия');
-insert into dictionary(word) values('адинол');
-insert into dictionary(word) values('азалия');
-insert into dictionary(word) values('азетин');
-insert into dictionary(word) values('азирин');
-insert into dictionary(word) values('азонин');
-insert into dictionary(word) values('азоцин');
-insert into dictionary(word) values('аканте');
-insert into dictionary(word) values('аканье');
-insert into dictionary(word) values('акарон');
-insert into dictionary(word) values('аколит');
-insert into dictionary(word) values('аксиос');
-insert into dictionary(word) values('аламак');
-insert into dictionary(word) values('алария');
-insert into dictionary(word) values('алипин');
-insert into dictionary(word) values('алкана');
-insert into dictionary(word) values('алтаит');
-insert into dictionary(word) values('альдин');
-insert into dictionary(word) values('алькор');
-insert into dictionary(word) values('альянс');
-insert into dictionary(word) values('аляски');
-insert into dictionary(word) values('аманат');
-insert into dictionary(word) values('амидон');
-insert into dictionary(word) values('аминги');
-insert into dictionary(word) values('амирис');
-insert into dictionary(word) values('амолль');
-insert into dictionary(word) values('ампрон');
-insert into dictionary(word) values('анализ');
-insert into dictionary(word) values('аналог');
-insert into dictionary(word) values('ананий');
-insert into dictionary(word) values('анафия');
-insert into dictionary(word) values('анегри');
-insert into dictionary(word) values('анедия');
-insert into dictionary(word) values('анетум');
-insert into dictionary(word) values('антеки');
-insert into dictionary(word) values('антрит');
-insert into dictionary(word) values('анубис');
-insert into dictionary(word) values('аншпуг');
-insert into dictionary(word) values('анюйит');
-insert into dictionary(word) values('апарте');
-insert into dictionary(word) values('апилак');
-insert into dictionary(word) values('апофиз');
-insert into dictionary(word) values('арабит');
-insert into dictionary(word) values('аравак');
-insert into dictionary(word) values('арвана');
-insert into dictionary(word) values('аргынь');
-insert into dictionary(word) values('аренда');
-insert into dictionary(word) values('армата');
-insert into dictionary(word) values('асванг');
-insert into dictionary(word) values('ассона');
-insert into dictionary(word) values('ассюре');
-insert into dictionary(word) values('атимия');
-insert into dictionary(word) values('аудион');
-insert into dictionary(word) values('афицид');
-insert into dictionary(word) values('афишка');
-insert into dictionary(word) values('аханта');
-insert into dictionary(word) values('ахринг');
-insert into dictionary(word) values('ацетал');
-insert into dictionary(word) values('ацетин');
-insert into dictionary(word) values('ацидоз');
-insert into dictionary(word) values('ашунья');
-insert into dictionary(word) values('бадяга');
-insert into dictionary(word) values('байрак');
-insert into dictionary(word) values('банзай');
-insert into dictionary(word) values('банлон');
-insert into dictionary(word) values('баннер');
-insert into dictionary(word) values('бантик');
-insert into dictionary(word) values('барбос');
-insert into dictionary(word) values('бархан');
-insert into dictionary(word) values('батька');
-insert into dictionary(word) values('башкир');
-insert into dictionary(word) values('башнёр');
-insert into dictionary(word) values('беглик');
-insert into dictionary(word) values('бедуин');
-insert into dictionary(word) values('безмен');
-insert into dictionary(word) values('бельга');
-insert into dictionary(word) values('бельмо');
-insert into dictionary(word) values('беньёр');
-insert into dictionary(word) values('бербин');
-insert into dictionary(word) values('бердыш');
-insert into dictionary(word) values('берсим');
-insert into dictionary(word) values('беусит');
-insert into dictionary(word) values('бехоит');
-insert into dictionary(word) values('бианка');
-insert into dictionary(word) values('бивень');
-insert into dictionary(word) values('биение');
-insert into dictionary(word) values('бикруг');
-insert into dictionary(word) values('биоток');
-insert into dictionary(word) values('блокаж');
-insert into dictionary(word) values('блютус');
-insert into dictionary(word) values('богема');
-insert into dictionary(word) values('болона');
-insert into dictionary(word) values('болото');
-insert into dictionary(word) values('бонанг');
-insert into dictionary(word) values('бонист');
-insert into dictionary(word) values('бордаж');
-insert into dictionary(word) values('бордюр');
-insert into dictionary(word) values('бранль');
-insert into dictionary(word) values('братан');
-insert into dictionary(word) values('брашно');
-insert into dictionary(word) values('брынза');
-insert into dictionary(word) values('брюхач');
-insert into dictionary(word) values('будара');
-insert into dictionary(word) values('буксин');
-insert into dictionary(word) values('буллом');
-insert into dictionary(word) values('булыга');
-insert into dictionary(word) values('буньон');
-insert into dictionary(word) values('бурдюк');
-insert into dictionary(word) values('бурнус');
-insert into dictionary(word) values('бурхан');
-insert into dictionary(word) values('бушлат');
-insert into dictionary(word) values('бушмен');
-insert into dictionary(word) values('вайшия');
-insert into dictionary(word) values('вализа');
-insert into dictionary(word) values('ванчес');
-insert into dictionary(word) values('варрау');
-insert into dictionary(word) values('вахшец');
-insert into dictionary(word) values('ваяние');
-insert into dictionary(word) values('вемале');
-insert into dictionary(word) values('венера');
-insert into dictionary(word) values('вениса');
-insert into dictionary(word) values('венкит');
-insert into dictionary(word) values('версор');
-insert into dictionary(word) values('вертиж');
-insert into dictionary(word) values('вертун');
-insert into dictionary(word) values('ветряк');
-insert into dictionary(word) values('взяток');
-insert into dictionary(word) values('виджет');
-insert into dictionary(word) values('виктор');
-insert into dictionary(word) values('вирбий');
-insert into dictionary(word) values('виреле');
-insert into dictionary(word) values('вирион');
-insert into dictionary(word) values('витекс');
-insert into dictionary(word) values('вихара');
-insert into dictionary(word) values('водоём');
-insert into dictionary(word) values('восход');
-insert into dictionary(word) values('выброс');
-insert into dictionary(word) values('выстой');
-insert into dictionary(word) values('вычерк');
-insert into dictionary(word) values('гадюка');
-insert into dictionary(word) values('галаты');
-insert into dictionary(word) values('галбан');
-insert into dictionary(word) values('галбей');
-insert into dictionary(word) values('галоид');
-insert into dictionary(word) values('галоша');
-insert into dictionary(word) values('гамета');
-insert into dictionary(word) values('гаприн');
-insert into dictionary(word) values('гарнир');
-insert into dictionary(word) values('гарпии');
-insert into dictionary(word) values('гарпия');
-insert into dictionary(word) values('гашник');
-insert into dictionary(word) values('гдович');
-insert into dictionary(word) values('гезенк');
-insert into dictionary(word) values('гейлит');
-insert into dictionary(word) values('гексен');
-insert into dictionary(word) values('гексод');
-insert into dictionary(word) values('гексон');
-insert into dictionary(word) values('геллен');
-insert into dictionary(word) values('геофон');
-insert into dictionary(word) values('гермес');
-insert into dictionary(word) values('гибрид');
-insert into dictionary(word) values('гидрел');
-insert into dictionary(word) values('гидрин');
-insert into dictionary(word) values('гимнот');
-insert into dictionary(word) values('гипнос');
-insert into dictionary(word) values('гирька');
-insert into dictionary(word) values('гитана');
-insert into dictionary(word) values('гицель');
-insert into dictionary(word) values('глобар');
-insert into dictionary(word) values('глухая');
-insert into dictionary(word) values('глянец');
-insert into dictionary(word) values('гнедко');
-insert into dictionary(word) values('гнеток');
-insert into dictionary(word) values('гоголь');
-insert into dictionary(word) values('горлец');
-insert into dictionary(word) values('госвуз');
-insert into dictionary(word) values('гостёк');
-insert into dictionary(word) values('грабеж');
-insert into dictionary(word) values('гратис');
-insert into dictionary(word) values('графин');
-insert into dictionary(word) values('графит');
-insert into dictionary(word) values('гривка');
-insert into dictionary(word) values('гробик');
-insert into dictionary(word) values('грязца');
-insert into dictionary(word) values('гуайол');
-insert into dictionary(word) values('гудрон');
-insert into dictionary(word) values('гулена');
-insert into dictionary(word) values('гулёна');
-insert into dictionary(word) values('гурунг');
-insert into dictionary(word) values('дагоба');
-insert into dictionary(word) values('данаец');
-insert into dictionary(word) values('дарини');
-insert into dictionary(word) values('дафнит');
-insert into dictionary(word) values('двиния');
-insert into dictionary(word) values('двоица');
-insert into dictionary(word) values('дворик');
-insert into dictionary(word) values('дворня');
-insert into dictionary(word) values('двушка');
-insert into dictionary(word) values('деберц');
-insert into dictionary(word) values('девица');
-insert into dictionary(word) values('деготь');
-insert into dictionary(word) values('дежень');
-insert into dictionary(word) values('декади');
-insert into dictionary(word) values('деманд');
-insert into dictionary(word) values('деспот');
-insert into dictionary(word) values('дециль');
-insert into dictionary(word) values('дециом');
-insert into dictionary(word) values('джакас');
-insert into dictionary(word) values('джойзо');
-insert into dictionary(word) values('дзанни');
-insert into dictionary(word) values('диамил');
-insert into dictionary(word) values('диацил');
-insert into dictionary(word) values('диджей');
-insert into dictionary(word) values('диенил');
-insert into dictionary(word) values('дизноя');
-insert into dictionary(word) values('дикаин');
-insert into dictionary(word) values('диодон');
-insert into dictionary(word) values('дионея');
-insert into dictionary(word) values('дионис');
-insert into dictionary(word) values('диспач');
-insert into dictionary(word) values('дистен');
-insert into dictionary(word) values('диурон');
-insert into dictionary(word) values('дихорд');
-insert into dictionary(word) values('дновец');
-insert into dictionary(word) values('додача');
-insert into dictionary(word) values('доимка');
-insert into dictionary(word) values('дойник');
-insert into dictionary(word) values('доктор');
-insert into dictionary(word) values('долбяк');
-insert into dictionary(word) values('должея');
-insert into dictionary(word) values('долото');
-insert into dictionary(word) values('допант');
-insert into dictionary(word) values('дротик');
-insert into dictionary(word) values('дружка');
-insert into dictionary(word) values('дуарий');
-insert into dictionary(word) values('дубаец');
-insert into dictionary(word) values('дубань');
-insert into dictionary(word) values('думпер');
-insert into dictionary(word) values('дуэлла');
-insert into dictionary(word) values('дхакар');
-insert into dictionary(word) values('дядька');
-insert into dictionary(word) values('евклаз');
-insert into dictionary(word) values('еканье');
-insert into dictionary(word) values('енотка');
-insert into dictionary(word) values('ехидна');
-insert into dictionary(word) values('жадеит');
-insert into dictionary(word) values('желток');
-insert into dictionary(word) values('жнейка');
-insert into dictionary(word) values('жолнер');
-insert into dictionary(word) values('жранье');
-insert into dictionary(word) values('жуанез');
-insert into dictionary(word) values('заббан');
-insert into dictionary(word) values('завлит');
-insert into dictionary(word) values('задняя');
-insert into dictionary(word) values('заирка');
-insert into dictionary(word) values('закись');
-insert into dictionary(word) values('запрос');
-insert into dictionary(word) values('засека');
-insert into dictionary(word) values('зацепа');
-insert into dictionary(word) values('защита');
-insert into dictionary(word) values('зверье');
-insert into dictionary(word) values('зететы');
-insert into dictionary(word) values('знайка');
-insert into dictionary(word) values('зодиак');
-insert into dictionary(word) values('зооген');
-insert into dictionary(word) values('зоолит');
-insert into dictionary(word) values('зооцид');
-insert into dictionary(word) values('зрение');
-insert into dictionary(word) values('зудень');
-insert into dictionary(word) values('зюссит');
-insert into dictionary(word) values('ибибио');
-insert into dictionary(word) values('ижевка');
-insert into dictionary(word) values('изжога');
-insert into dictionary(word) values('измена');
-insert into dictionary(word) values('изозим');
-insert into dictionary(word) values('изоэхо');
-insert into dictionary(word) values('илифия');
-insert into dictionary(word) values('ильхан');
-insert into dictionary(word) values('имамит');
-insert into dictionary(word) values('имехин');
-insert into dictionary(word) values('инозит');
-insert into dictionary(word) values('инфилд');
-insert into dictionary(word) values('иомуды');
-insert into dictionary(word) values('ипакой');
-insert into dictionary(word) values('иридат');
-insert into dictionary(word) values('искряк');
-insert into dictionary(word) values('исовит');
-insert into dictionary(word) values('истома');
-insert into dictionary(word) values('иттрий');
-insert into dictionary(word) values('ишимка');
-insert into dictionary(word) values('йервин');
-insert into dictionary(word) values('кабуза');
-insert into dictionary(word) values('кавыка');
-insert into dictionary(word) values('каджун');
-insert into dictionary(word) values('кадыня');
-insert into dictionary(word) values('каемка');
-insert into dictionary(word) values('казара');
-insert into dictionary(word) values('каинит');
-insert into dictionary(word) values('кайдан');
-insert into dictionary(word) values('кайтен');
-insert into dictionary(word) values('калита');
-insert into dictionary(word) values('камзол');
-insert into dictionary(word) values('каммон');
-insert into dictionary(word) values('кампеш');
-insert into dictionary(word) values('кандия');
-insert into dictionary(word) values('кантец');
-insert into dictionary(word) values('каприс');
-insert into dictionary(word) values('карбид');
-insert into dictionary(word) values('кардия');
-insert into dictionary(word) values('карибу');
-insert into dictionary(word) values('кариес');
-insert into dictionary(word) values('карнет');
-insert into dictionary(word) values('каросс');
-insert into dictionary(word) values('кассир');
-insert into dictionary(word) values('кассье');
-insert into dictionary(word) values('катарр');
-insert into dictionary(word) values('катеху');
-insert into dictionary(word) values('катран');
-insert into dictionary(word) values('каттер');
-insert into dictionary(word) values('каурка');
-insert into dictionary(word) values('каучук');
-insert into dictionary(word) values('каякер');
-insert into dictionary(word) values('кварта');
-insert into dictionary(word) values('кейлон');
-insert into dictionary(word) values('кережа');
-insert into dictionary(word) values('кержак');
-insert into dictionary(word) values('кесарь');
-insert into dictionary(word) values('кетмия');
-insert into dictionary(word) values('киборг');
-insert into dictionary(word) values('кидани');
-insert into dictionary(word) values('киликс');
-insert into dictionary(word) values('кинжал');
-insert into dictionary(word) values('кипсей');
-insert into dictionary(word) values('киркат');
-insert into dictionary(word) values('клемма');
-insert into dictionary(word) values('клерит');
-insert into dictionary(word) values('климат');
-insert into dictionary(word) values('клиона');
-insert into dictionary(word) values('клионе');
-insert into dictionary(word) values('клипса');
-insert into dictionary(word) values('клирик');
-insert into dictionary(word) values('клитор');
-insert into dictionary(word) values('клокот');
-insert into dictionary(word) values('клыкач');
-insert into dictionary(word) values('клювик');
-insert into dictionary(word) values('клятва');
-insert into dictionary(word) values('книжка');
-insert into dictionary(word) values('кобель');
-insert into dictionary(word) values('кобудо');
-insert into dictionary(word) values('кобура');
-insert into dictionary(word) values('коваду');
-insert into dictionary(word) values('ковщик');
-insert into dictionary(word) values('кодекс');
-insert into dictionary(word) values('кожник');
-insert into dictionary(word) values('козлик');
-insert into dictionary(word) values('койота');
-insert into dictionary(word) values('кокапу');
-insert into dictionary(word) values('кокпит');
-insert into dictionary(word) values('колеус');
-insert into dictionary(word) values('коливо');
-insert into dictionary(word) values('коллаж');
-insert into dictionary(word) values('колпит');
-insert into dictionary(word) values('коляда');
-insert into dictionary(word) values('кониоз');
-insert into dictionary(word) values('конный');
-insert into dictionary(word) values('кончар');
-insert into dictionary(word) values('коприс');
-insert into dictionary(word) values('копчик');
-insert into dictionary(word) values('коракл');
-insert into dictionary(word) values('корвет');
-insert into dictionary(word) values('кореец');
-insert into dictionary(word) values('корела');
-insert into dictionary(word) values('корелы');
-insert into dictionary(word) values('корнет');
-insert into dictionary(word) values('косина');
-insert into dictionary(word) values('кразис');
-insert into dictionary(word) values('крачка');
-insert into dictionary(word) values('крокус');
-insert into dictionary(word) values('крымка');
-insert into dictionary(word) values('кряква');
-insert into dictionary(word) values('ксения');
-insert into dictionary(word) values('ксилан');
-insert into dictionary(word) values('ксёндз');
-insert into dictionary(word) values('кубикл');
-insert into dictionary(word) values('кузина');
-insert into dictionary(word) values('кунико');
-insert into dictionary(word) values('курдюк');
-insert into dictionary(word) values('куриал');
-insert into dictionary(word) values('курион');
-insert into dictionary(word) values('курхин');
-insert into dictionary(word) values('кусток');
-insert into dictionary(word) values('лаггар');
-insert into dictionary(word) values('ладоша');
-insert into dictionary(word) values('лаймад');
-insert into dictionary(word) values('лактим');
-insert into dictionary(word) values('лантан');
-insert into dictionary(word) values('лантух');
-insert into dictionary(word) values('лауеит');
-insert into dictionary(word) values('лаурил');
-insert into dictionary(word) values('лахтер');
-insert into dictionary(word) values('лациум');
-insert into dictionary(word) values('лганье');
-insert into dictionary(word) values('левеит');
-insert into dictionary(word) values('легато');
-insert into dictionary(word) values('лелеги');
-insert into dictionary(word) values('лепота');
-insert into dictionary(word) values('лернеи');
-insert into dictionary(word) values('лесище');
-insert into dictionary(word) values('лесхоз');
-insert into dictionary(word) values('летнаб');
-insert into dictionary(word) values('летяга');
-insert into dictionary(word) values('лиасса');
-insert into dictionary(word) values('лингам');
-insert into dictionary(word) values('лиония');
-insert into dictionary(word) values('липник');
-insert into dictionary(word) values('лисица');
-insert into dictionary(word) values('лициум');
-insert into dictionary(word) values('ловчак');
-insert into dictionary(word) values('лонэит');
-insert into dictionary(word) values('лопинг');
-insert into dictionary(word) values('лунища');
-insert into dictionary(word) values('луфарь');
-insert into dictionary(word) values('лучшее');
-insert into dictionary(word) values('лысина');
-insert into dictionary(word) values('львица');
-insert into dictionary(word) values('лэптоп');
-insert into dictionary(word) values('лэутар');
-insert into dictionary(word) values('люлька');
-insert into dictionary(word) values('ляйляк');
-insert into dictionary(word) values('маахис');
-insert into dictionary(word) values('магона');
-insert into dictionary(word) values('маккия');
-insert into dictionary(word) values('макрон');
-insert into dictionary(word) values('малаец');
-insert into dictionary(word) values('малеат');
-insert into dictionary(word) values('малица');
-insert into dictionary(word) values('малуах');
-insert into dictionary(word) values('мальма');
-insert into dictionary(word) values('мальта');
-insert into dictionary(word) values('мамерк');
-insert into dictionary(word) values('маммей');
-insert into dictionary(word) values('мамуля');
-insert into dictionary(word) values('мандуб');
-insert into dictionary(word) values('мантра');
-insert into dictionary(word) values('марена');
-insert into dictionary(word) values('маркёр');
-insert into dictionary(word) values('мароль');
-insert into dictionary(word) values('маслаш');
-insert into dictionary(word) values('мастиф');
-insert into dictionary(word) values('матуар');
-insert into dictionary(word) values('машина');
-insert into dictionary(word) values('мегаом');
-insert into dictionary(word) values('мегрел');
-insert into dictionary(word) values('меддах');
-insert into dictionary(word) values('медиан');
-insert into dictionary(word) values('межник');
-insert into dictionary(word) values('мектеб');
-insert into dictionary(word) values('меллит');
-insert into dictionary(word) values('ментик');
-insert into dictionary(word) values('ментил');
-insert into dictionary(word) values('ментор');
-insert into dictionary(word) values('мервец');
-insert into dictionary(word) values('мерида');
-insert into dictionary(word) values('мессир');
-insert into dictionary(word) values('металл');
-insert into dictionary(word) values('метода');
-insert into dictionary(word) values('мечеть');
-insert into dictionary(word) values('микадо');
-insert into dictionary(word) values('миозин');
-insert into dictionary(word) values('мичман');
-insert into dictionary(word) values('мность');
-insert into dictionary(word) values('модель');
-insert into dictionary(word) values('можаич');
-insert into dictionary(word) values('морган');
-insert into dictionary(word) values('мордан');
-insert into dictionary(word) values('морина');
-insert into dictionary(word) values('морфей');
-insert into dictionary(word) values('моухок');
-insert into dictionary(word) values('муадит');
-insert into dictionary(word) values('мумуйе');
-insert into dictionary(word) values('муссит');
-insert into dictionary(word) values('мустин');
-insert into dictionary(word) values('муффер');
-insert into dictionary(word) values('мушкет');
-insert into dictionary(word) values('мшаник');
-insert into dictionary(word) values('мятлик');
-insert into dictionary(word) values('навага');
-insert into dictionary(word) values('навись');
-insert into dictionary(word) values('навлон');
-insert into dictionary(word) values('нагнёт');
-insert into dictionary(word) values('нагуны');
-insert into dictionary(word) values('надпил');
-insert into dictionary(word) values('наждак');
-insert into dictionary(word) values('назола');
-insert into dictionary(word) values('накара');
-insert into dictionary(word) values('накипь');
-insert into dictionary(word) values('накрап');
-insert into dictionary(word) values('напряг');
-insert into dictionary(word) values('нарост');
-insert into dictionary(word) values('насказ');
-insert into dictionary(word) values('настия');
-insert into dictionary(word) values('недоля');
-insert into dictionary(word) values('недруг');
-insert into dictionary(word) values('нексум');
-insert into dictionary(word) values('нексус');
-insert into dictionary(word) values('неодим');
-insert into dictionary(word) values('нероли');
-insert into dictionary(word) values('нигрол');
-insert into dictionary(word) values('нижнее');
-insert into dictionary(word) values('низкое');
-insert into dictionary(word) values('николь');
-insert into dictionary(word) values('ниобит');
-insert into dictionary(word) values('ницлоз');
-insert into dictionary(word) values('нойамы');
-insert into dictionary(word) values('нотата');
-insert into dictionary(word) values('нсутит');
-insert into dictionary(word) values('нудлер');
-insert into dictionary(word) values('нукула');
-insert into dictionary(word) values('обзвон');
-insert into dictionary(word) values('обочье');
-insert into dictionary(word) values('обувка');
-insert into dictionary(word) values('обушок');
-insert into dictionary(word) values('огарыш');
-insert into dictionary(word) values('одежда');
-insert into dictionary(word) values('ожинок');
-insert into dictionary(word) values('озазон');
-insert into dictionary(word) values('озерко');
-insert into dictionary(word) values('озерцо');
-insert into dictionary(word) values('окинец');
-insert into dictionary(word) values('оконце');
-insert into dictionary(word) values('оленка');
-insert into dictionary(word) values('оливье');
-insert into dictionary(word) values('олонец');
-insert into dictionary(word) values('олухом');
-insert into dictionary(word) values('ольгит');
-insert into dictionary(word) values('омилия');
-insert into dictionary(word) values('омниум');
-insert into dictionary(word) values('онегит');
-insert into dictionary(word) values('оонист');
-insert into dictionary(word) values('опадыш');
-insert into dictionary(word) values('опалит');
-insert into dictionary(word) values('опцион');
-insert into dictionary(word) values('орадец');
-insert into dictionary(word) values('орешня');
-insert into dictionary(word) values('орурец');
-insert into dictionary(word) values('орфеон');
-insert into dictionary(word) values('орфней');
-insert into dictionary(word) values('отклеп');
-insert into dictionary(word) values('оторея');
-insert into dictionary(word) values('отроек');
-insert into dictionary(word) values('отруби');
-insert into dictionary(word) values('отскок');
-insert into dictionary(word) values('оханец');
-insert into dictionary(word) values('охинка');
-insert into dictionary(word) values('очанка');
-insert into dictionary(word) values('очерец');
-insert into dictionary(word) values('ощипка');
-insert into dictionary(word) values('пажизм');
-insert into dictionary(word) values('пажить');
-insert into dictionary(word) values('паланш');
-insert into dictionary(word) values('паннус');
-insert into dictionary(word) values('панёва');
-insert into dictionary(word) values('парнас');
-insert into dictionary(word) values('пароли');
-insert into dictionary(word) values('парсер');
-insert into dictionary(word) values('партон');
-insert into dictionary(word) values('парфюм');
-insert into dictionary(word) values('пасево');
-insert into dictionary(word) values('пастис');
-insert into dictionary(word) values('патина');
-insert into dictionary(word) values('пахота');
-insert into dictionary(word) values('пекари');
-insert into dictionary(word) values('пектаз');
-insert into dictionary(word) values('пелёва');
-insert into dictionary(word) values('пензяк');
-insert into dictionary(word) values('пепель');
-insert into dictionary(word) values('пеплум');
-insert into dictionary(word) values('период');
-insert into dictionary(word) values('пермяк');
-insert into dictionary(word) values('перома');
-insert into dictionary(word) values('печура');
-insert into dictionary(word) values('пижонн');
-insert into dictionary(word) values('пилоус');
-insert into dictionary(word) values('пионий');
-insert into dictionary(word) values('пиорея');
-insert into dictionary(word) values('пиргос');
-insert into dictionary(word) values('пируэт');
-insert into dictionary(word) values('пискун');
-insert into dictionary(word) values('пищуха');
-insert into dictionary(word) values('плавун');
-insert into dictionary(word) values('плазма');
-insert into dictionary(word) values('плакет');
-insert into dictionary(word) values('платик');
-insert into dictionary(word) values('плегия');
-insert into dictionary(word) values('плинфа');
-insert into dictionary(word) values('плохое');
-insert into dictionary(word) values('плюска');
-insert into dictionary(word) values('пляска');
-insert into dictionary(word) values('погода');
-insert into dictionary(word) values('подвид');
-insert into dictionary(word) values('подвой');
-insert into dictionary(word) values('поддон');
-insert into dictionary(word) values('поддёв');
-insert into dictionary(word) values('подзол');
-insert into dictionary(word) values('подмен');
-insert into dictionary(word) values('подрод');
-insert into dictionary(word) values('подсол');
-insert into dictionary(word) values('подтек');
-insert into dictionary(word) values('подтип');
-insert into dictionary(word) values('подток');
-insert into dictionary(word) values('помона');
-insert into dictionary(word) values('помост');
-insert into dictionary(word) values('помпил');
-insert into dictionary(word) values('понера');
-insert into dictionary(word) values('портер');
-insert into dictionary(word) values('посмех');
-insert into dictionary(word) values('постия');
-insert into dictionary(word) values('почерк');
-insert into dictionary(word) values('прелюд');
-insert into dictionary(word) values('призба');
-insert into dictionary(word) values('прицел');
-insert into dictionary(word) values('пробой');
-insert into dictionary(word) values('провис');
-insert into dictionary(word) values('провоз');
-insert into dictionary(word) values('прокия');
-insert into dictionary(word) values('пролёт');
-insert into dictionary(word) values('промол');
-insert into dictionary(word) values('прония');
-insert into dictionary(word) values('пропст');
-insert into dictionary(word) values('прорез');
-insert into dictionary(word) values('просос');
-insert into dictionary(word) values('протёс');
-insert into dictionary(word) values('пружок');
-insert into dictionary(word) values('пряжка');
-insert into dictionary(word) values('псефит');
-insert into dictionary(word) values('пташка');
-insert into dictionary(word) values('пузырь');
-insert into dictionary(word) values('путеас');
-insert into dictionary(word) values('пухоед');
-insert into dictionary(word) values('пшенцо');
-insert into dictionary(word) values('пыхтун');
-insert into dictionary(word) values('пьедра');
-insert into dictionary(word) values('пядень');
-insert into dictionary(word) values('рагады');
-insert into dictionary(word) values('раджас');
-insert into dictionary(word) values('радуга');
-insert into dictionary(word) values('развар');
-insert into dictionary(word) values('разгон');
-insert into dictionary(word) values('разиня');
-insert into dictionary(word) values('разлом');
-insert into dictionary(word) values('разное');
-insert into dictionary(word) values('разряд');
-insert into dictionary(word) values('райсуд');
-insert into dictionary(word) values('распоп');
-insert into dictionary(word) values('расчес');
-insert into dictionary(word) values('рачище');
-insert into dictionary(word) values('реглан');
-insert into dictionary(word) values('реестр');
-insert into dictionary(word) values('рейвер');
-insert into dictionary(word) values('рейнец');
-insert into dictionary(word) values('ремикс');
-insert into dictionary(word) values('ренонс');
-insert into dictionary(word) values('репник');
-insert into dictionary(word) values('рецепт');
-insert into dictionary(word) values('реяние');
-insert into dictionary(word) values('риазат');
-insert into dictionary(word) values('ринезм');
-insert into dictionary(word) values('ритион');
-insert into dictionary(word) values('рифтия');
-insert into dictionary(word) values('ровинг');
-insert into dictionary(word) values('роддом');
-insert into dictionary(word) values('родник');
-insert into dictionary(word) values('рублик');
-insert into dictionary(word) values('рубоит');
-insert into dictionary(word) values('рудист');
-insert into dictionary(word) values('рулька');
-insert into dictionary(word) values('рускус');
-insert into dictionary(word) values('рутина');
-insert into dictionary(word) values('рутулы');
-insert into dictionary(word) values('ручища');
-insert into dictionary(word) values('рыбник');
-insert into dictionary(word) values('рыбцех');
-insert into dictionary(word) values('рыжина');
-insert into dictionary(word) values('рэкетс');
-insert into dictionary(word) values('рябуха');
-insert into dictionary(word) values('саадак');
-insert into dictionary(word) values('савоец');
-insert into dictionary(word) values('саддер');
-insert into dictionary(word) values('саджио');
-insert into dictionary(word) values('саленг');
-insert into dictionary(word) values('сальми');
-insert into dictionary(word) values('саммит');
-insert into dictionary(word) values('самнит');
-insert into dictionary(word) values('самшит');
-insert into dictionary(word) values('сапига');
-insert into dictionary(word) values('сапной');
-insert into dictionary(word) values('сатори');
-insert into dictionary(word) values('сатрап');
-insert into dictionary(word) values('свежун');
-insert into dictionary(word) values('сводик');
-insert into dictionary(word) values('сводка');
-insert into dictionary(word) values('сводня');
-insert into dictionary(word) values('сгонка');
-insert into dictionary(word) values('себаст');
-insert into dictionary(word) values('седанг');
-insert into dictionary(word) values('сезень');
-insert into dictionary(word) values('секста');
-insert into dictionary(word) values('селенг');
-insert into dictionary(word) values('сельдь');
-insert into dictionary(word) values('сельцо');
-insert into dictionary(word) values('сервал');
-insert into dictionary(word) values('сервис');
-insert into dictionary(word) values('сергач');
-insert into dictionary(word) values('серпок');
-insert into dictionary(word) values('серфер');
-insert into dictionary(word) values('сестра');
-insert into dictionary(word) values('сиблон');
-insert into dictionary(word) values('сигнум');
-insert into dictionary(word) values('сидень');
-insert into dictionary(word) values('сиенит');
-insert into dictionary(word) values('силант');
-insert into dictionary(word) values('синапс');
-insert into dictionary(word) values('синель');
-insert into dictionary(word) values('сирекс');
-insert into dictionary(word) values('сирена');
-insert into dictionary(word) values('ситтим');
-insert into dictionary(word) values('сиуксы');
-insert into dictionary(word) values('скнипа');
-insert into dictionary(word) values('сковка');
-insert into dictionary(word) values('скосок');
-insert into dictionary(word) values('скочна');
-insert into dictionary(word) values('скупец');
-insert into dictionary(word) values('слепыш');
-insert into dictionary(word) values('слеток');
-insert into dictionary(word) values('слитие');
-insert into dictionary(word) values('слёзка');
-insert into dictionary(word) values('смирна');
-insert into dictionary(word) values('снаряд');
-insert into dictionary(word) values('солаки');
-insert into dictionary(word) values('солоны');
-insert into dictionary(word) values('сомало');
-insert into dictionary(word) values('сонары');
-insert into dictionary(word) values('соффит');
-insert into dictionary(word) values('сочиво');
-insert into dictionary(word) values('спаржа');
-insert into dictionary(word) values('спевка');
-insert into dictionary(word) values('спячка');
-insert into dictionary(word) values('стажер');
-insert into dictionary(word) values('сталид');
-insert into dictionary(word) values('стансы');
-insert into dictionary(word) values('старое');
-insert into dictionary(word) values('старье');
-insert into dictionary(word) values('ствири');
-insert into dictionary(word) values('стежок');
-insert into dictionary(word) values('стернь');
-insert into dictionary(word) values('стишок');
-insert into dictionary(word) values('столик');
-insert into dictionary(word) values('сторож');
-insert into dictionary(word) values('сточка');
-insert into dictionary(word) values('страна');
-insert into dictionary(word) values('стрены');
-insert into dictionary(word) values('стресс');
-insert into dictionary(word) values('строка');
-insert into dictionary(word) values('ступор');
-insert into dictionary(word) values('суанит');
-insert into dictionary(word) values('сударь');
-insert into dictionary(word) values('сукума');
-insert into dictionary(word) values('сукурс');
-insert into dictionary(word) values('сулица');
-insert into dictionary(word) values('суннит');
-insert into dictionary(word) values('суслик');
-insert into dictionary(word) values('сустав');
-insert into dictionary(word) values('счалка');
-insert into dictionary(word) values('сырмак');
-insert into dictionary(word) values('сюзане');
-insert into dictionary(word) values('сюркуп');
-insert into dictionary(word) values('таврит');
-insert into dictionary(word) values('талитр');
-insert into dictionary(word) values('таллий');
-insert into dictionary(word) values('тамахо');
-insert into dictionary(word) values('тангаж');
-insert into dictionary(word) values('тандем');
-insert into dictionary(word) values('тарефа');
-insert into dictionary(word) values('таурид');
-insert into dictionary(word) values('твердь');
-insert into dictionary(word) values('творец');
-insert into dictionary(word) values('тексел');
-insert into dictionary(word) values('теллур');
-insert into dictionary(word) values('темень');
-insert into dictionary(word) values('тенета');
-insert into dictionary(word) values('тенетт');
-insert into dictionary(word) values('тензор');
-insert into dictionary(word) values('тениты');
-insert into dictionary(word) values('теозоф');
-insert into dictionary(word) values('теорик');
-insert into dictionary(word) values('термин');
-insert into dictionary(word) values('тернев');
-insert into dictionary(word) values('терсия');
-insert into dictionary(word) values('тетрас');
-insert into dictionary(word) values('тетрил');
-insert into dictionary(word) values('тетрод');
-insert into dictionary(word) values('тефлон');
-insert into dictionary(word) values('техина');
-insert into dictionary(word) values('тиамин');
-insert into dictionary(word) values('тибурн');
-insert into dictionary(word) values('тимома');
-insert into dictionary(word) values('тинкал');
-insert into dictionary(word) values('тиолит');
-insert into dictionary(word) values('тиоцин');
-insert into dictionary(word) values('типчик');
-insert into dictionary(word) values('титька');
-insert into dictionary(word) values('тифоид');
-insert into dictionary(word) values('тканье');
-insert into dictionary(word) values('тобико');
-insert into dictionary(word) values('тоемец');
-insert into dictionary(word) values('тойота');
-insert into dictionary(word) values('томоит');
-insert into dictionary(word) values('тоямец');
-insert into dictionary(word) values('травма');
-insert into dictionary(word) values('трагия');
-insert into dictionary(word) values('трепет');
-insert into dictionary(word) values('триоль');
-insert into dictionary(word) values('трирец');
-insert into dictionary(word) values('тритон');
-insert into dictionary(word) values('трогон');
-insert into dictionary(word) values('труизм');
-insert into dictionary(word) values('тряска');
-insert into dictionary(word) values('тсонга');
-insert into dictionary(word) values('тузлук');
-insert into dictionary(word) values('тулово');
-insert into dictionary(word) values('тунгид');
-insert into dictionary(word) values('тупица');
-insert into dictionary(word) values('турнуа');
-insert into dictionary(word) values('тфилин');
-insert into dictionary(word) values('тюлень');
-insert into dictionary(word) values('тюрьма');
-insert into dictionary(word) values('уарина');
-insert into dictionary(word) values('убогий');
-insert into dictionary(word) values('убоина');
-insert into dictionary(word) values('увелец');
-insert into dictionary(word) values('уволог');
-insert into dictionary(word) values('угарец');
-insert into dictionary(word) values('уголье');
-insert into dictionary(word) values('удавка');
-insert into dictionary(word) values('уженье');
-insert into dictionary(word) values('уметец');
-insert into dictionary(word) values('умолот');
-insert into dictionary(word) values('уразин');
-insert into dictionary(word) values('уралит');
-insert into dictionary(word) values('урамил');
-insert into dictionary(word) values('уранат');
-insert into dictionary(word) values('урарту');
-insert into dictionary(word) values('уреаза');
-insert into dictionary(word) values('уретра');
-insert into dictionary(word) values('уроний');
-insert into dictionary(word) values('урофаг');
-insert into dictionary(word) values('усигит');
-insert into dictionary(word) values('уторка');
-insert into dictionary(word) values('уфолог');
-insert into dictionary(word) values('фагана');
-insert into dictionary(word) values('факоид');
-insert into dictionary(word) values('фасоль');
-insert into dictionary(word) values('феддан');
-insert into dictionary(word) values('фелонь');
-insert into dictionary(word) values('фемура');
-insert into dictionary(word) values('фередж');
-insert into dictionary(word) values('фермий');
-insert into dictionary(word) values('феррит');
-insert into dictionary(word) values('фефела');
-insert into dictionary(word) values('физфак');
-insert into dictionary(word) values('фиксаж');
-insert into dictionary(word) values('фикция');
-insert into dictionary(word) values('филфак');
-insert into dictionary(word) values('фингал');
-insert into dictionary(word) values('фирлот');
-insert into dictionary(word) values('фишинг');
-insert into dictionary(word) values('флавен');
-insert into dictionary(word) values('флибот');
-insert into dictionary(word) values('фомизм');
-insert into dictionary(word) values('фордек');
-insert into dictionary(word) values('форель');
-insert into dictionary(word) values('фортка');
-insert into dictionary(word) values('форшок');
-insert into dictionary(word) values('фотизм');
-insert into dictionary(word) values('франги');
-insert into dictionary(word) values('фугато');
-insert into dictionary(word) values('фуддер');
-insert into dictionary(word) values('фуроин');
-insert into dictionary(word) values('фустаж');
-insert into dictionary(word) values('фустик');
-insert into dictionary(word) values('хастит');
-insert into dictionary(word) values('хеджер');
-insert into dictionary(word) values('хешвон');
-insert into dictionary(word) values('хибара');
-insert into dictionary(word) values('хиджра');
-insert into dictionary(word) values('хлебец');
-insert into dictionary(word) values('ходики');
-insert into dictionary(word) values('холдем');
-insert into dictionary(word) values('холтит');
-insert into dictionary(word) values('хоспис');
-insert into dictionary(word) values('храпак');
-insert into dictionary(word) values('храпун');
-insert into dictionary(word) values('хромил');
-insert into dictionary(word) values('хромис');
-insert into dictionary(word) values('хуррит');
-insert into dictionary(word) values('хэккер');
-insert into dictionary(word) values('центон');
-insert into dictionary(word) values('цербер');
-insert into dictionary(word) values('цереус');
-insert into dictionary(word) values('цзинец');
-insert into dictionary(word) values('цианин');
-insert into dictionary(word) values('цибела');
-insert into dictionary(word) values('цинеол');
-insert into dictionary(word) values('цинкат');
-insert into dictionary(word) values('цитаза');
-insert into dictionary(word) values('цоколь');
-insert into dictionary(word) values('цунами');
-insert into dictionary(word) values('чаинка');
-insert into dictionary(word) values('чайтья');
-insert into dictionary(word) values('чакира');
-insert into dictionary(word) values('чартер');
-insert into dictionary(word) values('чаусец');
-insert into dictionary(word) values('чембур');
-insert into dictionary(word) values('чепрак');
-insert into dictionary(word) values('черная');
-insert into dictionary(word) values('четыре');
-insert into dictionary(word) values('чигирь');
-insert into dictionary(word) values('чикано');
-insert into dictionary(word) values('читака');
-insert into dictionary(word) values('чревье');
-insert into dictionary(word) values('чудеса');
-insert into dictionary(word) values('чудила');
-insert into dictionary(word) values('чудиха');
-insert into dictionary(word) values('чудной');
-insert into dictionary(word) values('чумной');
-insert into dictionary(word) values('чурбан');
-insert into dictionary(word) values('чуруки');
-insert into dictionary(word) values('шалтай');
-insert into dictionary(word) values('шаньга');
-insert into dictionary(word) values('шароле');
-insert into dictionary(word) values('шаурма');
-insert into dictionary(word) values('шведки');
-insert into dictionary(word) values('шеврет');
-insert into dictionary(word) values('шейдер');
-insert into dictionary(word) values('шелюга');
-insert into dictionary(word) values('шизонт');
-insert into dictionary(word) values('шипинг');
-insert into dictionary(word) values('шлёпка');
-insert into dictionary(word) values('шмельц');
-insert into dictionary(word) values('шовчик');
-insert into dictionary(word) values('шорная');
-insert into dictionary(word) values('штранд');
-insert into dictionary(word) values('штювер');
-insert into dictionary(word) values('шумиха');
-insert into dictionary(word) values('щавель');
-insert into dictionary(word) values('щетина');
-insert into dictionary(word) values('эбонит');
-insert into dictionary(word) values('эвекта');
-insert into dictionary(word) values('эгирин');
-insert into dictionary(word) values('экбите');
-insert into dictionary(word) values('экотип');
-insert into dictionary(word) values('эламит');
-insert into dictionary(word) values('элегаз');
-insert into dictionary(word) values('элемол');
-insert into dictionary(word) values('эленол');
-insert into dictionary(word) values('эмфаза');
-insert into dictionary(word) values('энация');
-insert into dictionary(word) values('эндост');
-insert into dictionary(word) values('энозис');
-insert into dictionary(word) values('энотур');
-insert into dictionary(word) values('энофил');
-insert into dictionary(word) values('энтада');
-insert into dictionary(word) values('эпагон');
-insert into dictionary(word) values('эпирец');
-insert into dictionary(word) values('эпитип');
-insert into dictionary(word) values('эпроуч');
-insert into dictionary(word) values('эрозия');
-insert into dictionary(word) values('эругит');
-insert into dictionary(word) values('этенон');
-insert into dictionary(word) values('эфорат');
-insert into dictionary(word) values('эшевен');
-insert into dictionary(word) values('ютурна');
-insert into dictionary(word) values('язычок');
-insert into dictionary(word) values('яичник');
-insert into dictionary(word) values('яканье');
-insert into dictionary(word) values('ямакис');
-insert into dictionary(word) values('ятанин');
-insert into dictionary(word) values('ятовье');
-insert into dictionary(word) values('ятрина');
+INSERT INTO dictionary(word)
+VALUES ('абакаб');
+INSERT INTO dictionary(word)
+VALUES ('абалан');
+INSERT INTO dictionary(word)
+VALUES ('абанец');
+INSERT INTO dictionary(word)
+VALUES ('абарис');
+INSERT INTO dictionary(word)
+VALUES ('абдест');
+INSERT INTO dictionary(word)
+VALUES ('абезум');
+INSERT INTO dictionary(word)
+VALUES ('абирам');
+INSERT INTO dictionary(word)
+VALUES ('авиваж');
+INSERT INTO dictionary(word)
+VALUES ('авидин');
+INSERT INTO dictionary(word)
+VALUES ('агамия');
+INSERT INTO dictionary(word)
+VALUES ('агатеа');
+INSERT INTO dictionary(word)
+VALUES ('адагия');
+INSERT INTO dictionary(word)
+VALUES ('адинол');
+INSERT INTO dictionary(word)
+VALUES ('азалия');
+INSERT INTO dictionary(word)
+VALUES ('азетин');
+INSERT INTO dictionary(word)
+VALUES ('азирин');
+INSERT INTO dictionary(word)
+VALUES ('азонин');
+INSERT INTO dictionary(word)
+VALUES ('азоцин');
+INSERT INTO dictionary(word)
+VALUES ('аканте');
+INSERT INTO dictionary(word)
+VALUES ('аканье');
+INSERT INTO dictionary(word)
+VALUES ('акарон');
+INSERT INTO dictionary(word)
+VALUES ('аколит');
+INSERT INTO dictionary(word)
+VALUES ('аксиос');
+INSERT INTO dictionary(word)
+VALUES ('аламак');
+INSERT INTO dictionary(word)
+VALUES ('алария');
+INSERT INTO dictionary(word)
+VALUES ('алипин');
+INSERT INTO dictionary(word)
+VALUES ('алкана');
+INSERT INTO dictionary(word)
+VALUES ('алтаит');
+INSERT INTO dictionary(word)
+VALUES ('альдин');
+INSERT INTO dictionary(word)
+VALUES ('алькор');
+INSERT INTO dictionary(word)
+VALUES ('альянс');
+INSERT INTO dictionary(word)
+VALUES ('аляски');
+INSERT INTO dictionary(word)
+VALUES ('аманат');
+INSERT INTO dictionary(word)
+VALUES ('амидон');
+INSERT INTO dictionary(word)
+VALUES ('аминги');
+INSERT INTO dictionary(word)
+VALUES ('амирис');
+INSERT INTO dictionary(word)
+VALUES ('амолль');
+INSERT INTO dictionary(word)
+VALUES ('ампрон');
+INSERT INTO dictionary(word)
+VALUES ('анализ');
+INSERT INTO dictionary(word)
+VALUES ('аналог');
+INSERT INTO dictionary(word)
+VALUES ('ананий');
+INSERT INTO dictionary(word)
+VALUES ('анафия');
+INSERT INTO dictionary(word)
+VALUES ('анегри');
+INSERT INTO dictionary(word)
+VALUES ('анедия');
+INSERT INTO dictionary(word)
+VALUES ('анетум');
+INSERT INTO dictionary(word)
+VALUES ('антеки');
+INSERT INTO dictionary(word)
+VALUES ('антрит');
+INSERT INTO dictionary(word)
+VALUES ('анубис');
+INSERT INTO dictionary(word)
+VALUES ('аншпуг');
+INSERT INTO dictionary(word)
+VALUES ('анюйит');
+INSERT INTO dictionary(word)
+VALUES ('апарте');
+INSERT INTO dictionary(word)
+VALUES ('апилак');
+INSERT INTO dictionary(word)
+VALUES ('апофиз');
+INSERT INTO dictionary(word)
+VALUES ('арабит');
+INSERT INTO dictionary(word)
+VALUES ('аравак');
+INSERT INTO dictionary(word)
+VALUES ('арвана');
+INSERT INTO dictionary(word)
+VALUES ('аргынь');
+INSERT INTO dictionary(word)
+VALUES ('аренда');
+INSERT INTO dictionary(word)
+VALUES ('армата');
+INSERT INTO dictionary(word)
+VALUES ('асванг');
+INSERT INTO dictionary(word)
+VALUES ('ассона');
+INSERT INTO dictionary(word)
+VALUES ('ассюре');
+INSERT INTO dictionary(word)
+VALUES ('атимия');
+INSERT INTO dictionary(word)
+VALUES ('аудион');
+INSERT INTO dictionary(word)
+VALUES ('афицид');
+INSERT INTO dictionary(word)
+VALUES ('афишка');
+INSERT INTO dictionary(word)
+VALUES ('аханта');
+INSERT INTO dictionary(word)
+VALUES ('ахринг');
+INSERT INTO dictionary(word)
+VALUES ('ацетал');
+INSERT INTO dictionary(word)
+VALUES ('ацетин');
+INSERT INTO dictionary(word)
+VALUES ('ацидоз');
+INSERT INTO dictionary(word)
+VALUES ('ашунья');
+INSERT INTO dictionary(word)
+VALUES ('бадяга');
+INSERT INTO dictionary(word)
+VALUES ('байрак');
+INSERT INTO dictionary(word)
+VALUES ('банзай');
+INSERT INTO dictionary(word)
+VALUES ('банлон');
+INSERT INTO dictionary(word)
+VALUES ('баннер');
+INSERT INTO dictionary(word)
+VALUES ('бантик');
+INSERT INTO dictionary(word)
+VALUES ('барбос');
+INSERT INTO dictionary(word)
+VALUES ('бархан');
+INSERT INTO dictionary(word)
+VALUES ('батька');
+INSERT INTO dictionary(word)
+VALUES ('башкир');
+INSERT INTO dictionary(word)
+VALUES ('башнёр');
+INSERT INTO dictionary(word)
+VALUES ('беглик');
+INSERT INTO dictionary(word)
+VALUES ('бедуин');
+INSERT INTO dictionary(word)
+VALUES ('безмен');
+INSERT INTO dictionary(word)
+VALUES ('бельга');
+INSERT INTO dictionary(word)
+VALUES ('бельмо');
+INSERT INTO dictionary(word)
+VALUES ('беньёр');
+INSERT INTO dictionary(word)
+VALUES ('бербин');
+INSERT INTO dictionary(word)
+VALUES ('бердыш');
+INSERT INTO dictionary(word)
+VALUES ('берсим');
+INSERT INTO dictionary(word)
+VALUES ('беусит');
+INSERT INTO dictionary(word)
+VALUES ('бехоит');
+INSERT INTO dictionary(word)
+VALUES ('бианка');
+INSERT INTO dictionary(word)
+VALUES ('бивень');
+INSERT INTO dictionary(word)
+VALUES ('биение');
+INSERT INTO dictionary(word)
+VALUES ('бикруг');
+INSERT INTO dictionary(word)
+VALUES ('биоток');
+INSERT INTO dictionary(word)
+VALUES ('блокаж');
+INSERT INTO dictionary(word)
+VALUES ('блютус');
+INSERT INTO dictionary(word)
+VALUES ('богема');
+INSERT INTO dictionary(word)
+VALUES ('болона');
+INSERT INTO dictionary(word)
+VALUES ('болото');
+INSERT INTO dictionary(word)
+VALUES ('бонанг');
+INSERT INTO dictionary(word)
+VALUES ('бонист');
+INSERT INTO dictionary(word)
+VALUES ('бордаж');
+INSERT INTO dictionary(word)
+VALUES ('бордюр');
+INSERT INTO dictionary(word)
+VALUES ('бранль');
+INSERT INTO dictionary(word)
+VALUES ('братан');
+INSERT INTO dictionary(word)
+VALUES ('брашно');
+INSERT INTO dictionary(word)
+VALUES ('брынза');
+INSERT INTO dictionary(word)
+VALUES ('брюхач');
+INSERT INTO dictionary(word)
+VALUES ('будара');
+INSERT INTO dictionary(word)
+VALUES ('буксин');
+INSERT INTO dictionary(word)
+VALUES ('буллом');
+INSERT INTO dictionary(word)
+VALUES ('булыга');
+INSERT INTO dictionary(word)
+VALUES ('буньон');
+INSERT INTO dictionary(word)
+VALUES ('бурдюк');
+INSERT INTO dictionary(word)
+VALUES ('бурнус');
+INSERT INTO dictionary(word)
+VALUES ('бурхан');
+INSERT INTO dictionary(word)
+VALUES ('бушлат');
+INSERT INTO dictionary(word)
+VALUES ('бушмен');
+INSERT INTO dictionary(word)
+VALUES ('вайшия');
+INSERT INTO dictionary(word)
+VALUES ('вализа');
+INSERT INTO dictionary(word)
+VALUES ('ванчес');
+INSERT INTO dictionary(word)
+VALUES ('варрау');
+INSERT INTO dictionary(word)
+VALUES ('вахшец');
+INSERT INTO dictionary(word)
+VALUES ('ваяние');
+INSERT INTO dictionary(word)
+VALUES ('вемале');
+INSERT INTO dictionary(word)
+VALUES ('венера');
+INSERT INTO dictionary(word)
+VALUES ('вениса');
+INSERT INTO dictionary(word)
+VALUES ('венкит');
+INSERT INTO dictionary(word)
+VALUES ('версор');
+INSERT INTO dictionary(word)
+VALUES ('вертиж');
+INSERT INTO dictionary(word)
+VALUES ('вертун');
+INSERT INTO dictionary(word)
+VALUES ('ветряк');
+INSERT INTO dictionary(word)
+VALUES ('взяток');
+INSERT INTO dictionary(word)
+VALUES ('виджет');
+INSERT INTO dictionary(word)
+VALUES ('виктор');
+INSERT INTO dictionary(word)
+VALUES ('вирбий');
+INSERT INTO dictionary(word)
+VALUES ('виреле');
+INSERT INTO dictionary(word)
+VALUES ('вирион');
+INSERT INTO dictionary(word)
+VALUES ('витекс');
+INSERT INTO dictionary(word)
+VALUES ('вихара');
+INSERT INTO dictionary(word)
+VALUES ('водоём');
+INSERT INTO dictionary(word)
+VALUES ('восход');
+INSERT INTO dictionary(word)
+VALUES ('выброс');
+INSERT INTO dictionary(word)
+VALUES ('выстой');
+INSERT INTO dictionary(word)
+VALUES ('вычерк');
+INSERT INTO dictionary(word)
+VALUES ('гадюка');
+INSERT INTO dictionary(word)
+VALUES ('галаты');
+INSERT INTO dictionary(word)
+VALUES ('галбан');
+INSERT INTO dictionary(word)
+VALUES ('галбей');
+INSERT INTO dictionary(word)
+VALUES ('галоид');
+INSERT INTO dictionary(word)
+VALUES ('галоша');
+INSERT INTO dictionary(word)
+VALUES ('гамета');
+INSERT INTO dictionary(word)
+VALUES ('гаприн');
+INSERT INTO dictionary(word)
+VALUES ('гарнир');
+INSERT INTO dictionary(word)
+VALUES ('гарпии');
+INSERT INTO dictionary(word)
+VALUES ('гарпия');
+INSERT INTO dictionary(word)
+VALUES ('гашник');
+INSERT INTO dictionary(word)
+VALUES ('гдович');
+INSERT INTO dictionary(word)
+VALUES ('гезенк');
+INSERT INTO dictionary(word)
+VALUES ('гейлит');
+INSERT INTO dictionary(word)
+VALUES ('гексен');
+INSERT INTO dictionary(word)
+VALUES ('гексод');
+INSERT INTO dictionary(word)
+VALUES ('гексон');
+INSERT INTO dictionary(word)
+VALUES ('геллен');
+INSERT INTO dictionary(word)
+VALUES ('геофон');
+INSERT INTO dictionary(word)
+VALUES ('гермес');
+INSERT INTO dictionary(word)
+VALUES ('гибрид');
+INSERT INTO dictionary(word)
+VALUES ('гидрел');
+INSERT INTO dictionary(word)
+VALUES ('гидрин');
+INSERT INTO dictionary(word)
+VALUES ('гимнот');
+INSERT INTO dictionary(word)
+VALUES ('гипнос');
+INSERT INTO dictionary(word)
+VALUES ('гирька');
+INSERT INTO dictionary(word)
+VALUES ('гитана');
+INSERT INTO dictionary(word)
+VALUES ('гицель');
+INSERT INTO dictionary(word)
+VALUES ('глобар');
+INSERT INTO dictionary(word)
+VALUES ('глухая');
+INSERT INTO dictionary(word)
+VALUES ('глянец');
+INSERT INTO dictionary(word)
+VALUES ('гнедко');
+INSERT INTO dictionary(word)
+VALUES ('гнеток');
+INSERT INTO dictionary(word)
+VALUES ('гоголь');
+INSERT INTO dictionary(word)
+VALUES ('горлец');
+INSERT INTO dictionary(word)
+VALUES ('госвуз');
+INSERT INTO dictionary(word)
+VALUES ('гостёк');
+INSERT INTO dictionary(word)
+VALUES ('грабеж');
+INSERT INTO dictionary(word)
+VALUES ('гратис');
+INSERT INTO dictionary(word)
+VALUES ('графин');
+INSERT INTO dictionary(word)
+VALUES ('графит');
+INSERT INTO dictionary(word)
+VALUES ('гривка');
+INSERT INTO dictionary(word)
+VALUES ('гробик');
+INSERT INTO dictionary(word)
+VALUES ('грязца');
+INSERT INTO dictionary(word)
+VALUES ('гуайол');
+INSERT INTO dictionary(word)
+VALUES ('гудрон');
+INSERT INTO dictionary(word)
+VALUES ('гулена');
+INSERT INTO dictionary(word)
+VALUES ('гулёна');
+INSERT INTO dictionary(word)
+VALUES ('гурунг');
+INSERT INTO dictionary(word)
+VALUES ('дагоба');
+INSERT INTO dictionary(word)
+VALUES ('данаец');
+INSERT INTO dictionary(word)
+VALUES ('дарини');
+INSERT INTO dictionary(word)
+VALUES ('дафнит');
+INSERT INTO dictionary(word)
+VALUES ('двиния');
+INSERT INTO dictionary(word)
+VALUES ('двоица');
+INSERT INTO dictionary(word)
+VALUES ('дворик');
+INSERT INTO dictionary(word)
+VALUES ('дворня');
+INSERT INTO dictionary(word)
+VALUES ('двушка');
+INSERT INTO dictionary(word)
+VALUES ('деберц');
+INSERT INTO dictionary(word)
+VALUES ('девица');
+INSERT INTO dictionary(word)
+VALUES ('деготь');
+INSERT INTO dictionary(word)
+VALUES ('дежень');
+INSERT INTO dictionary(word)
+VALUES ('декади');
+INSERT INTO dictionary(word)
+VALUES ('деманд');
+INSERT INTO dictionary(word)
+VALUES ('деспот');
+INSERT INTO dictionary(word)
+VALUES ('дециль');
+INSERT INTO dictionary(word)
+VALUES ('дециом');
+INSERT INTO dictionary(word)
+VALUES ('джакас');
+INSERT INTO dictionary(word)
+VALUES ('джойзо');
+INSERT INTO dictionary(word)
+VALUES ('дзанни');
+INSERT INTO dictionary(word)
+VALUES ('диамил');
+INSERT INTO dictionary(word)
+VALUES ('диацил');
+INSERT INTO dictionary(word)
+VALUES ('диджей');
+INSERT INTO dictionary(word)
+VALUES ('диенил');
+INSERT INTO dictionary(word)
+VALUES ('дизноя');
+INSERT INTO dictionary(word)
+VALUES ('дикаин');
+INSERT INTO dictionary(word)
+VALUES ('диодон');
+INSERT INTO dictionary(word)
+VALUES ('дионея');
+INSERT INTO dictionary(word)
+VALUES ('дионис');
+INSERT INTO dictionary(word)
+VALUES ('диспач');
+INSERT INTO dictionary(word)
+VALUES ('дистен');
+INSERT INTO dictionary(word)
+VALUES ('диурон');
+INSERT INTO dictionary(word)
+VALUES ('дихорд');
+INSERT INTO dictionary(word)
+VALUES ('дновец');
+INSERT INTO dictionary(word)
+VALUES ('додача');
+INSERT INTO dictionary(word)
+VALUES ('доимка');
+INSERT INTO dictionary(word)
+VALUES ('дойник');
+INSERT INTO dictionary(word)
+VALUES ('доктор');
+INSERT INTO dictionary(word)
+VALUES ('долбяк');
+INSERT INTO dictionary(word)
+VALUES ('должея');
+INSERT INTO dictionary(word)
+VALUES ('долото');
+INSERT INTO dictionary(word)
+VALUES ('допант');
+INSERT INTO dictionary(word)
+VALUES ('дротик');
+INSERT INTO dictionary(word)
+VALUES ('дружка');
+INSERT INTO dictionary(word)
+VALUES ('дуарий');
+INSERT INTO dictionary(word)
+VALUES ('дубаец');
+INSERT INTO dictionary(word)
+VALUES ('дубань');
+INSERT INTO dictionary(word)
+VALUES ('думпер');
+INSERT INTO dictionary(word)
+VALUES ('дуэлла');
+INSERT INTO dictionary(word)
+VALUES ('дхакар');
+INSERT INTO dictionary(word)
+VALUES ('дядька');
+INSERT INTO dictionary(word)
+VALUES ('евклаз');
+INSERT INTO dictionary(word)
+VALUES ('еканье');
+INSERT INTO dictionary(word)
+VALUES ('енотка');
+INSERT INTO dictionary(word)
+VALUES ('ехидна');
+INSERT INTO dictionary(word)
+VALUES ('жадеит');
+INSERT INTO dictionary(word)
+VALUES ('желток');
+INSERT INTO dictionary(word)
+VALUES ('жнейка');
+INSERT INTO dictionary(word)
+VALUES ('жолнер');
+INSERT INTO dictionary(word)
+VALUES ('жранье');
+INSERT INTO dictionary(word)
+VALUES ('жуанез');
+INSERT INTO dictionary(word)
+VALUES ('заббан');
+INSERT INTO dictionary(word)
+VALUES ('завлит');
+INSERT INTO dictionary(word)
+VALUES ('задняя');
+INSERT INTO dictionary(word)
+VALUES ('заирка');
+INSERT INTO dictionary(word)
+VALUES ('закись');
+INSERT INTO dictionary(word)
+VALUES ('запрос');
+INSERT INTO dictionary(word)
+VALUES ('засека');
+INSERT INTO dictionary(word)
+VALUES ('зацепа');
+INSERT INTO dictionary(word)
+VALUES ('защита');
+INSERT INTO dictionary(word)
+VALUES ('зверье');
+INSERT INTO dictionary(word)
+VALUES ('зететы');
+INSERT INTO dictionary(word)
+VALUES ('знайка');
+INSERT INTO dictionary(word)
+VALUES ('зодиак');
+INSERT INTO dictionary(word)
+VALUES ('зооген');
+INSERT INTO dictionary(word)
+VALUES ('зоолит');
+INSERT INTO dictionary(word)
+VALUES ('зооцид');
+INSERT INTO dictionary(word)
+VALUES ('зрение');
+INSERT INTO dictionary(word)
+VALUES ('зудень');
+INSERT INTO dictionary(word)
+VALUES ('зюссит');
+INSERT INTO dictionary(word)
+VALUES ('ибибио');
+INSERT INTO dictionary(word)
+VALUES ('ижевка');
+INSERT INTO dictionary(word)
+VALUES ('изжога');
+INSERT INTO dictionary(word)
+VALUES ('измена');
+INSERT INTO dictionary(word)
+VALUES ('изозим');
+INSERT INTO dictionary(word)
+VALUES ('изоэхо');
+INSERT INTO dictionary(word)
+VALUES ('илифия');
+INSERT INTO dictionary(word)
+VALUES ('ильхан');
+INSERT INTO dictionary(word)
+VALUES ('имамит');
+INSERT INTO dictionary(word)
+VALUES ('имехин');
+INSERT INTO dictionary(word)
+VALUES ('инозит');
+INSERT INTO dictionary(word)
+VALUES ('инфилд');
+INSERT INTO dictionary(word)
+VALUES ('иомуды');
+INSERT INTO dictionary(word)
+VALUES ('ипакой');
+INSERT INTO dictionary(word)
+VALUES ('иридат');
+INSERT INTO dictionary(word)
+VALUES ('искряк');
+INSERT INTO dictionary(word)
+VALUES ('исовит');
+INSERT INTO dictionary(word)
+VALUES ('истома');
+INSERT INTO dictionary(word)
+VALUES ('иттрий');
+INSERT INTO dictionary(word)
+VALUES ('ишимка');
+INSERT INTO dictionary(word)
+VALUES ('йервин');
+INSERT INTO dictionary(word)
+VALUES ('кабуза');
+INSERT INTO dictionary(word)
+VALUES ('кавыка');
+INSERT INTO dictionary(word)
+VALUES ('каджун');
+INSERT INTO dictionary(word)
+VALUES ('кадыня');
+INSERT INTO dictionary(word)
+VALUES ('каемка');
+INSERT INTO dictionary(word)
+VALUES ('казара');
+INSERT INTO dictionary(word)
+VALUES ('каинит');
+INSERT INTO dictionary(word)
+VALUES ('кайдан');
+INSERT INTO dictionary(word)
+VALUES ('кайтен');
+INSERT INTO dictionary(word)
+VALUES ('калита');
+INSERT INTO dictionary(word)
+VALUES ('камзол');
+INSERT INTO dictionary(word)
+VALUES ('каммон');
+INSERT INTO dictionary(word)
+VALUES ('кампеш');
+INSERT INTO dictionary(word)
+VALUES ('кандия');
+INSERT INTO dictionary(word)
+VALUES ('кантец');
+INSERT INTO dictionary(word)
+VALUES ('каприс');
+INSERT INTO dictionary(word)
+VALUES ('карбид');
+INSERT INTO dictionary(word)
+VALUES ('кардия');
+INSERT INTO dictionary(word)
+VALUES ('карибу');
+INSERT INTO dictionary(word)
+VALUES ('кариес');
+INSERT INTO dictionary(word)
+VALUES ('карнет');
+INSERT INTO dictionary(word)
+VALUES ('каросс');
+INSERT INTO dictionary(word)
+VALUES ('кассир');
+INSERT INTO dictionary(word)
+VALUES ('кассье');
+INSERT INTO dictionary(word)
+VALUES ('катарр');
+INSERT INTO dictionary(word)
+VALUES ('катеху');
+INSERT INTO dictionary(word)
+VALUES ('катран');
+INSERT INTO dictionary(word)
+VALUES ('каттер');
+INSERT INTO dictionary(word)
+VALUES ('каурка');
+INSERT INTO dictionary(word)
+VALUES ('каучук');
+INSERT INTO dictionary(word)
+VALUES ('каякер');
+INSERT INTO dictionary(word)
+VALUES ('кварта');
+INSERT INTO dictionary(word)
+VALUES ('кейлон');
+INSERT INTO dictionary(word)
+VALUES ('кережа');
+INSERT INTO dictionary(word)
+VALUES ('кержак');
+INSERT INTO dictionary(word)
+VALUES ('кесарь');
+INSERT INTO dictionary(word)
+VALUES ('кетмия');
+INSERT INTO dictionary(word)
+VALUES ('киборг');
+INSERT INTO dictionary(word)
+VALUES ('кидани');
+INSERT INTO dictionary(word)
+VALUES ('киликс');
+INSERT INTO dictionary(word)
+VALUES ('кинжал');
+INSERT INTO dictionary(word)
+VALUES ('кипсей');
+INSERT INTO dictionary(word)
+VALUES ('киркат');
+INSERT INTO dictionary(word)
+VALUES ('клемма');
+INSERT INTO dictionary(word)
+VALUES ('клерит');
+INSERT INTO dictionary(word)
+VALUES ('климат');
+INSERT INTO dictionary(word)
+VALUES ('клиона');
+INSERT INTO dictionary(word)
+VALUES ('клионе');
+INSERT INTO dictionary(word)
+VALUES ('клипса');
+INSERT INTO dictionary(word)
+VALUES ('клирик');
+INSERT INTO dictionary(word)
+VALUES ('клитор');
+INSERT INTO dictionary(word)
+VALUES ('клокот');
+INSERT INTO dictionary(word)
+VALUES ('клыкач');
+INSERT INTO dictionary(word)
+VALUES ('клювик');
+INSERT INTO dictionary(word)
+VALUES ('клятва');
+INSERT INTO dictionary(word)
+VALUES ('книжка');
+INSERT INTO dictionary(word)
+VALUES ('кобель');
+INSERT INTO dictionary(word)
+VALUES ('кобудо');
+INSERT INTO dictionary(word)
+VALUES ('кобура');
+INSERT INTO dictionary(word)
+VALUES ('коваду');
+INSERT INTO dictionary(word)
+VALUES ('ковщик');
+INSERT INTO dictionary(word)
+VALUES ('кодекс');
+INSERT INTO dictionary(word)
+VALUES ('кожник');
+INSERT INTO dictionary(word)
+VALUES ('козлик');
+INSERT INTO dictionary(word)
+VALUES ('койота');
+INSERT INTO dictionary(word)
+VALUES ('кокапу');
+INSERT INTO dictionary(word)
+VALUES ('кокпит');
+INSERT INTO dictionary(word)
+VALUES ('колеус');
+INSERT INTO dictionary(word)
+VALUES ('коливо');
+INSERT INTO dictionary(word)
+VALUES ('коллаж');
+INSERT INTO dictionary(word)
+VALUES ('колпит');
+INSERT INTO dictionary(word)
+VALUES ('коляда');
+INSERT INTO dictionary(word)
+VALUES ('кониоз');
+INSERT INTO dictionary(word)
+VALUES ('конный');
+INSERT INTO dictionary(word)
+VALUES ('кончар');
+INSERT INTO dictionary(word)
+VALUES ('коприс');
+INSERT INTO dictionary(word)
+VALUES ('копчик');
+INSERT INTO dictionary(word)
+VALUES ('коракл');
+INSERT INTO dictionary(word)
+VALUES ('корвет');
+INSERT INTO dictionary(word)
+VALUES ('кореец');
+INSERT INTO dictionary(word)
+VALUES ('корела');
+INSERT INTO dictionary(word)
+VALUES ('корелы');
+INSERT INTO dictionary(word)
+VALUES ('корнет');
+INSERT INTO dictionary(word)
+VALUES ('косина');
+INSERT INTO dictionary(word)
+VALUES ('кразис');
+INSERT INTO dictionary(word)
+VALUES ('крачка');
+INSERT INTO dictionary(word)
+VALUES ('крокус');
+INSERT INTO dictionary(word)
+VALUES ('крымка');
+INSERT INTO dictionary(word)
+VALUES ('кряква');
+INSERT INTO dictionary(word)
+VALUES ('ксения');
+INSERT INTO dictionary(word)
+VALUES ('ксилан');
+INSERT INTO dictionary(word)
+VALUES ('ксёндз');
+INSERT INTO dictionary(word)
+VALUES ('кубикл');
+INSERT INTO dictionary(word)
+VALUES ('кузина');
+INSERT INTO dictionary(word)
+VALUES ('кунико');
+INSERT INTO dictionary(word)
+VALUES ('курдюк');
+INSERT INTO dictionary(word)
+VALUES ('куриал');
+INSERT INTO dictionary(word)
+VALUES ('курион');
+INSERT INTO dictionary(word)
+VALUES ('курхин');
+INSERT INTO dictionary(word)
+VALUES ('кусток');
+INSERT INTO dictionary(word)
+VALUES ('лаггар');
+INSERT INTO dictionary(word)
+VALUES ('ладоша');
+INSERT INTO dictionary(word)
+VALUES ('лаймад');
+INSERT INTO dictionary(word)
+VALUES ('лактим');
+INSERT INTO dictionary(word)
+VALUES ('лантан');
+INSERT INTO dictionary(word)
+VALUES ('лантух');
+INSERT INTO dictionary(word)
+VALUES ('лауеит');
+INSERT INTO dictionary(word)
+VALUES ('лаурил');
+INSERT INTO dictionary(word)
+VALUES ('лахтер');
+INSERT INTO dictionary(word)
+VALUES ('лациум');
+INSERT INTO dictionary(word)
+VALUES ('лганье');
+INSERT INTO dictionary(word)
+VALUES ('левеит');
+INSERT INTO dictionary(word)
+VALUES ('легато');
+INSERT INTO dictionary(word)
+VALUES ('лелеги');
+INSERT INTO dictionary(word)
+VALUES ('лепота');
+INSERT INTO dictionary(word)
+VALUES ('лернеи');
+INSERT INTO dictionary(word)
+VALUES ('лесище');
+INSERT INTO dictionary(word)
+VALUES ('лесхоз');
+INSERT INTO dictionary(word)
+VALUES ('летнаб');
+INSERT INTO dictionary(word)
+VALUES ('летяга');
+INSERT INTO dictionary(word)
+VALUES ('лиасса');
+INSERT INTO dictionary(word)
+VALUES ('лингам');
+INSERT INTO dictionary(word)
+VALUES ('лиония');
+INSERT INTO dictionary(word)
+VALUES ('липник');
+INSERT INTO dictionary(word)
+VALUES ('лисица');
+INSERT INTO dictionary(word)
+VALUES ('лициум');
+INSERT INTO dictionary(word)
+VALUES ('ловчак');
+INSERT INTO dictionary(word)
+VALUES ('лонэит');
+INSERT INTO dictionary(word)
+VALUES ('лопинг');
+INSERT INTO dictionary(word)
+VALUES ('лунища');
+INSERT INTO dictionary(word)
+VALUES ('луфарь');
+INSERT INTO dictionary(word)
+VALUES ('лучшее');
+INSERT INTO dictionary(word)
+VALUES ('лысина');
+INSERT INTO dictionary(word)
+VALUES ('львица');
+INSERT INTO dictionary(word)
+VALUES ('лэптоп');
+INSERT INTO dictionary(word)
+VALUES ('лэутар');
+INSERT INTO dictionary(word)
+VALUES ('люлька');
+INSERT INTO dictionary(word)
+VALUES ('ляйляк');
+INSERT INTO dictionary(word)
+VALUES ('маахис');
+INSERT INTO dictionary(word)
+VALUES ('магона');
+INSERT INTO dictionary(word)
+VALUES ('маккия');
+INSERT INTO dictionary(word)
+VALUES ('макрон');
+INSERT INTO dictionary(word)
+VALUES ('малаец');
+INSERT INTO dictionary(word)
+VALUES ('малеат');
+INSERT INTO dictionary(word)
+VALUES ('малица');
+INSERT INTO dictionary(word)
+VALUES ('малуах');
+INSERT INTO dictionary(word)
+VALUES ('мальма');
+INSERT INTO dictionary(word)
+VALUES ('мальта');
+INSERT INTO dictionary(word)
+VALUES ('мамерк');
+INSERT INTO dictionary(word)
+VALUES ('маммей');
+INSERT INTO dictionary(word)
+VALUES ('мамуля');
+INSERT INTO dictionary(word)
+VALUES ('мандуб');
+INSERT INTO dictionary(word)
+VALUES ('мантра');
+INSERT INTO dictionary(word)
+VALUES ('марена');
+INSERT INTO dictionary(word)
+VALUES ('маркёр');
+INSERT INTO dictionary(word)
+VALUES ('мароль');
+INSERT INTO dictionary(word)
+VALUES ('маслаш');
+INSERT INTO dictionary(word)
+VALUES ('мастиф');
+INSERT INTO dictionary(word)
+VALUES ('матуар');
+INSERT INTO dictionary(word)
+VALUES ('машина');
+INSERT INTO dictionary(word)
+VALUES ('мегаом');
+INSERT INTO dictionary(word)
+VALUES ('мегрел');
+INSERT INTO dictionary(word)
+VALUES ('меддах');
+INSERT INTO dictionary(word)
+VALUES ('медиан');
+INSERT INTO dictionary(word)
+VALUES ('межник');
+INSERT INTO dictionary(word)
+VALUES ('мектеб');
+INSERT INTO dictionary(word)
+VALUES ('меллит');
+INSERT INTO dictionary(word)
+VALUES ('ментик');
+INSERT INTO dictionary(word)
+VALUES ('ментил');
+INSERT INTO dictionary(word)
+VALUES ('ментор');
+INSERT INTO dictionary(word)
+VALUES ('мервец');
+INSERT INTO dictionary(word)
+VALUES ('мерида');
+INSERT INTO dictionary(word)
+VALUES ('мессир');
+INSERT INTO dictionary(word)
+VALUES ('металл');
+INSERT INTO dictionary(word)
+VALUES ('метода');
+INSERT INTO dictionary(word)
+VALUES ('мечеть');
+INSERT INTO dictionary(word)
+VALUES ('микадо');
+INSERT INTO dictionary(word)
+VALUES ('миозин');
+INSERT INTO dictionary(word)
+VALUES ('мичман');
+INSERT INTO dictionary(word)
+VALUES ('мность');
+INSERT INTO dictionary(word)
+VALUES ('модель');
+INSERT INTO dictionary(word)
+VALUES ('можаич');
+INSERT INTO dictionary(word)
+VALUES ('морган');
+INSERT INTO dictionary(word)
+VALUES ('мордан');
+INSERT INTO dictionary(word)
+VALUES ('морина');
+INSERT INTO dictionary(word)
+VALUES ('морфей');
+INSERT INTO dictionary(word)
+VALUES ('моухок');
+INSERT INTO dictionary(word)
+VALUES ('муадит');
+INSERT INTO dictionary(word)
+VALUES ('мумуйе');
+INSERT INTO dictionary(word)
+VALUES ('муссит');
+INSERT INTO dictionary(word)
+VALUES ('мустин');
+INSERT INTO dictionary(word)
+VALUES ('муффер');
+INSERT INTO dictionary(word)
+VALUES ('мушкет');
+INSERT INTO dictionary(word)
+VALUES ('мшаник');
+INSERT INTO dictionary(word)
+VALUES ('мятлик');
+INSERT INTO dictionary(word)
+VALUES ('навага');
+INSERT INTO dictionary(word)
+VALUES ('навись');
+INSERT INTO dictionary(word)
+VALUES ('навлон');
+INSERT INTO dictionary(word)
+VALUES ('нагнёт');
+INSERT INTO dictionary(word)
+VALUES ('нагуны');
+INSERT INTO dictionary(word)
+VALUES ('надпил');
+INSERT INTO dictionary(word)
+VALUES ('наждак');
+INSERT INTO dictionary(word)
+VALUES ('назола');
+INSERT INTO dictionary(word)
+VALUES ('накара');
+INSERT INTO dictionary(word)
+VALUES ('накипь');
+INSERT INTO dictionary(word)
+VALUES ('накрап');
+INSERT INTO dictionary(word)
+VALUES ('напряг');
+INSERT INTO dictionary(word)
+VALUES ('нарост');
+INSERT INTO dictionary(word)
+VALUES ('насказ');
+INSERT INTO dictionary(word)
+VALUES ('настия');
+INSERT INTO dictionary(word)
+VALUES ('недоля');
+INSERT INTO dictionary(word)
+VALUES ('недруг');
+INSERT INTO dictionary(word)
+VALUES ('нексум');
+INSERT INTO dictionary(word)
+VALUES ('нексус');
+INSERT INTO dictionary(word)
+VALUES ('неодим');
+INSERT INTO dictionary(word)
+VALUES ('нероли');
+INSERT INTO dictionary(word)
+VALUES ('нигрол');
+INSERT INTO dictionary(word)
+VALUES ('нижнее');
+INSERT INTO dictionary(word)
+VALUES ('низкое');
+INSERT INTO dictionary(word)
+VALUES ('николь');
+INSERT INTO dictionary(word)
+VALUES ('ниобит');
+INSERT INTO dictionary(word)
+VALUES ('ницлоз');
+INSERT INTO dictionary(word)
+VALUES ('нойамы');
+INSERT INTO dictionary(word)
+VALUES ('нотата');
+INSERT INTO dictionary(word)
+VALUES ('нсутит');
+INSERT INTO dictionary(word)
+VALUES ('нудлер');
+INSERT INTO dictionary(word)
+VALUES ('нукула');
+INSERT INTO dictionary(word)
+VALUES ('обзвон');
+INSERT INTO dictionary(word)
+VALUES ('обочье');
+INSERT INTO dictionary(word)
+VALUES ('обувка');
+INSERT INTO dictionary(word)
+VALUES ('обушок');
+INSERT INTO dictionary(word)
+VALUES ('огарыш');
+INSERT INTO dictionary(word)
+VALUES ('одежда');
+INSERT INTO dictionary(word)
+VALUES ('ожинок');
+INSERT INTO dictionary(word)
+VALUES ('озазон');
+INSERT INTO dictionary(word)
+VALUES ('озерко');
+INSERT INTO dictionary(word)
+VALUES ('озерцо');
+INSERT INTO dictionary(word)
+VALUES ('окинец');
+INSERT INTO dictionary(word)
+VALUES ('оконце');
+INSERT INTO dictionary(word)
+VALUES ('оленка');
+INSERT INTO dictionary(word)
+VALUES ('оливье');
+INSERT INTO dictionary(word)
+VALUES ('олонец');
+INSERT INTO dictionary(word)
+VALUES ('олухом');
+INSERT INTO dictionary(word)
+VALUES ('ольгит');
+INSERT INTO dictionary(word)
+VALUES ('омилия');
+INSERT INTO dictionary(word)
+VALUES ('омниум');
+INSERT INTO dictionary(word)
+VALUES ('онегит');
+INSERT INTO dictionary(word)
+VALUES ('оонист');
+INSERT INTO dictionary(word)
+VALUES ('опадыш');
+INSERT INTO dictionary(word)
+VALUES ('опалит');
+INSERT INTO dictionary(word)
+VALUES ('опцион');
+INSERT INTO dictionary(word)
+VALUES ('орадец');
+INSERT INTO dictionary(word)
+VALUES ('орешня');
+INSERT INTO dictionary(word)
+VALUES ('орурец');
+INSERT INTO dictionary(word)
+VALUES ('орфеон');
+INSERT INTO dictionary(word)
+VALUES ('орфней');
+INSERT INTO dictionary(word)
+VALUES ('отклеп');
+INSERT INTO dictionary(word)
+VALUES ('оторея');
+INSERT INTO dictionary(word)
+VALUES ('отроек');
+INSERT INTO dictionary(word)
+VALUES ('отруби');
+INSERT INTO dictionary(word)
+VALUES ('отскок');
+INSERT INTO dictionary(word)
+VALUES ('оханец');
+INSERT INTO dictionary(word)
+VALUES ('охинка');
+INSERT INTO dictionary(word)
+VALUES ('очанка');
+INSERT INTO dictionary(word)
+VALUES ('очерец');
+INSERT INTO dictionary(word)
+VALUES ('ощипка');
+INSERT INTO dictionary(word)
+VALUES ('пажизм');
+INSERT INTO dictionary(word)
+VALUES ('пажить');
+INSERT INTO dictionary(word)
+VALUES ('паланш');
+INSERT INTO dictionary(word)
+VALUES ('паннус');
+INSERT INTO dictionary(word)
+VALUES ('панёва');
+INSERT INTO dictionary(word)
+VALUES ('парнас');
+INSERT INTO dictionary(word)
+VALUES ('пароли');
+INSERT INTO dictionary(word)
+VALUES ('парсер');
+INSERT INTO dictionary(word)
+VALUES ('партон');
+INSERT INTO dictionary(word)
+VALUES ('парфюм');
+INSERT INTO dictionary(word)
+VALUES ('пасево');
+INSERT INTO dictionary(word)
+VALUES ('пастис');
+INSERT INTO dictionary(word)
+VALUES ('патина');
+INSERT INTO dictionary(word)
+VALUES ('пахота');
+INSERT INTO dictionary(word)
+VALUES ('пекари');
+INSERT INTO dictionary(word)
+VALUES ('пектаз');
+INSERT INTO dictionary(word)
+VALUES ('пелёва');
+INSERT INTO dictionary(word)
+VALUES ('пензяк');
+INSERT INTO dictionary(word)
+VALUES ('пепель');
+INSERT INTO dictionary(word)
+VALUES ('пеплум');
+INSERT INTO dictionary(word)
+VALUES ('период');
+INSERT INTO dictionary(word)
+VALUES ('пермяк');
+INSERT INTO dictionary(word)
+VALUES ('перома');
+INSERT INTO dictionary(word)
+VALUES ('печура');
+INSERT INTO dictionary(word)
+VALUES ('пижонн');
+INSERT INTO dictionary(word)
+VALUES ('пилоус');
+INSERT INTO dictionary(word)
+VALUES ('пионий');
+INSERT INTO dictionary(word)
+VALUES ('пиорея');
+INSERT INTO dictionary(word)
+VALUES ('пиргос');
+INSERT INTO dictionary(word)
+VALUES ('пируэт');
+INSERT INTO dictionary(word)
+VALUES ('пискун');
+INSERT INTO dictionary(word)
+VALUES ('пищуха');
+INSERT INTO dictionary(word)
+VALUES ('плавун');
+INSERT INTO dictionary(word)
+VALUES ('плазма');
+INSERT INTO dictionary(word)
+VALUES ('плакет');
+INSERT INTO dictionary(word)
+VALUES ('платик');
+INSERT INTO dictionary(word)
+VALUES ('плегия');
+INSERT INTO dictionary(word)
+VALUES ('плинфа');
+INSERT INTO dictionary(word)
+VALUES ('плохое');
+INSERT INTO dictionary(word)
+VALUES ('плюска');
+INSERT INTO dictionary(word)
+VALUES ('пляска');
+INSERT INTO dictionary(word)
+VALUES ('погода');
+INSERT INTO dictionary(word)
+VALUES ('подвид');
+INSERT INTO dictionary(word)
+VALUES ('подвой');
+INSERT INTO dictionary(word)
+VALUES ('поддон');
+INSERT INTO dictionary(word)
+VALUES ('поддёв');
+INSERT INTO dictionary(word)
+VALUES ('подзол');
+INSERT INTO dictionary(word)
+VALUES ('подмен');
+INSERT INTO dictionary(word)
+VALUES ('подрод');
+INSERT INTO dictionary(word)
+VALUES ('подсол');
+INSERT INTO dictionary(word)
+VALUES ('подтек');
+INSERT INTO dictionary(word)
+VALUES ('подтип');
+INSERT INTO dictionary(word)
+VALUES ('подток');
+INSERT INTO dictionary(word)
+VALUES ('помона');
+INSERT INTO dictionary(word)
+VALUES ('помост');
+INSERT INTO dictionary(word)
+VALUES ('помпил');
+INSERT INTO dictionary(word)
+VALUES ('понера');
+INSERT INTO dictionary(word)
+VALUES ('портер');
+INSERT INTO dictionary(word)
+VALUES ('посмех');
+INSERT INTO dictionary(word)
+VALUES ('постия');
+INSERT INTO dictionary(word)
+VALUES ('почерк');
+INSERT INTO dictionary(word)
+VALUES ('прелюд');
+INSERT INTO dictionary(word)
+VALUES ('призба');
+INSERT INTO dictionary(word)
+VALUES ('прицел');
+INSERT INTO dictionary(word)
+VALUES ('пробой');
+INSERT INTO dictionary(word)
+VALUES ('провис');
+INSERT INTO dictionary(word)
+VALUES ('провоз');
+INSERT INTO dictionary(word)
+VALUES ('прокия');
+INSERT INTO dictionary(word)
+VALUES ('пролёт');
+INSERT INTO dictionary(word)
+VALUES ('промол');
+INSERT INTO dictionary(word)
+VALUES ('прония');
+INSERT INTO dictionary(word)
+VALUES ('пропст');
+INSERT INTO dictionary(word)
+VALUES ('прорез');
+INSERT INTO dictionary(word)
+VALUES ('просос');
+INSERT INTO dictionary(word)
+VALUES ('протёс');
+INSERT INTO dictionary(word)
+VALUES ('пружок');
+INSERT INTO dictionary(word)
+VALUES ('пряжка');
+INSERT INTO dictionary(word)
+VALUES ('псефит');
+INSERT INTO dictionary(word)
+VALUES ('пташка');
+INSERT INTO dictionary(word)
+VALUES ('пузырь');
+INSERT INTO dictionary(word)
+VALUES ('путеас');
+INSERT INTO dictionary(word)
+VALUES ('пухоед');
+INSERT INTO dictionary(word)
+VALUES ('пшенцо');
+INSERT INTO dictionary(word)
+VALUES ('пыхтун');
+INSERT INTO dictionary(word)
+VALUES ('пьедра');
+INSERT INTO dictionary(word)
+VALUES ('пядень');
+INSERT INTO dictionary(word)
+VALUES ('рагады');
+INSERT INTO dictionary(word)
+VALUES ('раджас');
+INSERT INTO dictionary(word)
+VALUES ('радуга');
+INSERT INTO dictionary(word)
+VALUES ('развар');
+INSERT INTO dictionary(word)
+VALUES ('разгон');
+INSERT INTO dictionary(word)
+VALUES ('разиня');
+INSERT INTO dictionary(word)
+VALUES ('разлом');
+INSERT INTO dictionary(word)
+VALUES ('разное');
+INSERT INTO dictionary(word)
+VALUES ('разряд');
+INSERT INTO dictionary(word)
+VALUES ('райсуд');
+INSERT INTO dictionary(word)
+VALUES ('распоп');
+INSERT INTO dictionary(word)
+VALUES ('расчес');
+INSERT INTO dictionary(word)
+VALUES ('рачище');
+INSERT INTO dictionary(word)
+VALUES ('реглан');
+INSERT INTO dictionary(word)
+VALUES ('реестр');
+INSERT INTO dictionary(word)
+VALUES ('рейвер');
+INSERT INTO dictionary(word)
+VALUES ('рейнец');
+INSERT INTO dictionary(word)
+VALUES ('ремикс');
+INSERT INTO dictionary(word)
+VALUES ('ренонс');
+INSERT INTO dictionary(word)
+VALUES ('репник');
+INSERT INTO dictionary(word)
+VALUES ('рецепт');
+INSERT INTO dictionary(word)
+VALUES ('реяние');
+INSERT INTO dictionary(word)
+VALUES ('риазат');
+INSERT INTO dictionary(word)
+VALUES ('ринезм');
+INSERT INTO dictionary(word)
+VALUES ('ритион');
+INSERT INTO dictionary(word)
+VALUES ('рифтия');
+INSERT INTO dictionary(word)
+VALUES ('ровинг');
+INSERT INTO dictionary(word)
+VALUES ('роддом');
+INSERT INTO dictionary(word)
+VALUES ('родник');
+INSERT INTO dictionary(word)
+VALUES ('рублик');
+INSERT INTO dictionary(word)
+VALUES ('рубоит');
+INSERT INTO dictionary(word)
+VALUES ('рудист');
+INSERT INTO dictionary(word)
+VALUES ('рулька');
+INSERT INTO dictionary(word)
+VALUES ('рускус');
+INSERT INTO dictionary(word)
+VALUES ('рутина');
+INSERT INTO dictionary(word)
+VALUES ('рутулы');
+INSERT INTO dictionary(word)
+VALUES ('ручища');
+INSERT INTO dictionary(word)
+VALUES ('рыбник');
+INSERT INTO dictionary(word)
+VALUES ('рыбцех');
+INSERT INTO dictionary(word)
+VALUES ('рыжина');
+INSERT INTO dictionary(word)
+VALUES ('рэкетс');
+INSERT INTO dictionary(word)
+VALUES ('рябуха');
+INSERT INTO dictionary(word)
+VALUES ('саадак');
+INSERT INTO dictionary(word)
+VALUES ('савоец');
+INSERT INTO dictionary(word)
+VALUES ('саддер');
+INSERT INTO dictionary(word)
+VALUES ('саджио');
+INSERT INTO dictionary(word)
+VALUES ('саленг');
+INSERT INTO dictionary(word)
+VALUES ('сальми');
+INSERT INTO dictionary(word)
+VALUES ('саммит');
+INSERT INTO dictionary(word)
+VALUES ('самнит');
+INSERT INTO dictionary(word)
+VALUES ('самшит');
+INSERT INTO dictionary(word)
+VALUES ('сапига');
+INSERT INTO dictionary(word)
+VALUES ('сапной');
+INSERT INTO dictionary(word)
+VALUES ('сатори');
+INSERT INTO dictionary(word)
+VALUES ('сатрап');
+INSERT INTO dictionary(word)
+VALUES ('свежун');
+INSERT INTO dictionary(word)
+VALUES ('сводик');
+INSERT INTO dictionary(word)
+VALUES ('сводка');
+INSERT INTO dictionary(word)
+VALUES ('сводня');
+INSERT INTO dictionary(word)
+VALUES ('сгонка');
+INSERT INTO dictionary(word)
+VALUES ('себаст');
+INSERT INTO dictionary(word)
+VALUES ('седанг');
+INSERT INTO dictionary(word)
+VALUES ('сезень');
+INSERT INTO dictionary(word)
+VALUES ('секста');
+INSERT INTO dictionary(word)
+VALUES ('селенг');
+INSERT INTO dictionary(word)
+VALUES ('сельдь');
+INSERT INTO dictionary(word)
+VALUES ('сельцо');
+INSERT INTO dictionary(word)
+VALUES ('сервал');
+INSERT INTO dictionary(word)
+VALUES ('сервис');
+INSERT INTO dictionary(word)
+VALUES ('сергач');
+INSERT INTO dictionary(word)
+VALUES ('серпок');
+INSERT INTO dictionary(word)
+VALUES ('серфер');
+INSERT INTO dictionary(word)
+VALUES ('сестра');
+INSERT INTO dictionary(word)
+VALUES ('сиблон');
+INSERT INTO dictionary(word)
+VALUES ('сигнум');
+INSERT INTO dictionary(word)
+VALUES ('сидень');
+INSERT INTO dictionary(word)
+VALUES ('сиенит');
+INSERT INTO dictionary(word)
+VALUES ('силант');
+INSERT INTO dictionary(word)
+VALUES ('синапс');
+INSERT INTO dictionary(word)
+VALUES ('синель');
+INSERT INTO dictionary(word)
+VALUES ('сирекс');
+INSERT INTO dictionary(word)
+VALUES ('сирена');
+INSERT INTO dictionary(word)
+VALUES ('ситтим');
+INSERT INTO dictionary(word)
+VALUES ('сиуксы');
+INSERT INTO dictionary(word)
+VALUES ('скнипа');
+INSERT INTO dictionary(word)
+VALUES ('сковка');
+INSERT INTO dictionary(word)
+VALUES ('скосок');
+INSERT INTO dictionary(word)
+VALUES ('скочна');
+INSERT INTO dictionary(word)
+VALUES ('скупец');
+INSERT INTO dictionary(word)
+VALUES ('слепыш');
+INSERT INTO dictionary(word)
+VALUES ('слеток');
+INSERT INTO dictionary(word)
+VALUES ('слитие');
+INSERT INTO dictionary(word)
+VALUES ('слёзка');
+INSERT INTO dictionary(word)
+VALUES ('смирна');
+INSERT INTO dictionary(word)
+VALUES ('снаряд');
+INSERT INTO dictionary(word)
+VALUES ('солаки');
+INSERT INTO dictionary(word)
+VALUES ('солоны');
+INSERT INTO dictionary(word)
+VALUES ('сомало');
+INSERT INTO dictionary(word)
+VALUES ('сонары');
+INSERT INTO dictionary(word)
+VALUES ('соффит');
+INSERT INTO dictionary(word)
+VALUES ('сочиво');
+INSERT INTO dictionary(word)
+VALUES ('спаржа');
+INSERT INTO dictionary(word)
+VALUES ('спевка');
+INSERT INTO dictionary(word)
+VALUES ('спячка');
+INSERT INTO dictionary(word)
+VALUES ('стажер');
+INSERT INTO dictionary(word)
+VALUES ('сталид');
+INSERT INTO dictionary(word)
+VALUES ('стансы');
+INSERT INTO dictionary(word)
+VALUES ('старое');
+INSERT INTO dictionary(word)
+VALUES ('старье');
+INSERT INTO dictionary(word)
+VALUES ('ствири');
+INSERT INTO dictionary(word)
+VALUES ('стежок');
+INSERT INTO dictionary(word)
+VALUES ('стернь');
+INSERT INTO dictionary(word)
+VALUES ('стишок');
+INSERT INTO dictionary(word)
+VALUES ('столик');
+INSERT INTO dictionary(word)
+VALUES ('сторож');
+INSERT INTO dictionary(word)
+VALUES ('сточка');
+INSERT INTO dictionary(word)
+VALUES ('страна');
+INSERT INTO dictionary(word)
+VALUES ('стрены');
+INSERT INTO dictionary(word)
+VALUES ('стресс');
+INSERT INTO dictionary(word)
+VALUES ('строка');
+INSERT INTO dictionary(word)
+VALUES ('ступор');
+INSERT INTO dictionary(word)
+VALUES ('суанит');
+INSERT INTO dictionary(word)
+VALUES ('сударь');
+INSERT INTO dictionary(word)
+VALUES ('сукума');
+INSERT INTO dictionary(word)
+VALUES ('сукурс');
+INSERT INTO dictionary(word)
+VALUES ('сулица');
+INSERT INTO dictionary(word)
+VALUES ('суннит');
+INSERT INTO dictionary(word)
+VALUES ('суслик');
+INSERT INTO dictionary(word)
+VALUES ('сустав');
+INSERT INTO dictionary(word)
+VALUES ('счалка');
+INSERT INTO dictionary(word)
+VALUES ('сырмак');
+INSERT INTO dictionary(word)
+VALUES ('сюзане');
+INSERT INTO dictionary(word)
+VALUES ('сюркуп');
+INSERT INTO dictionary(word)
+VALUES ('таврит');
+INSERT INTO dictionary(word)
+VALUES ('талитр');
+INSERT INTO dictionary(word)
+VALUES ('таллий');
+INSERT INTO dictionary(word)
+VALUES ('тамахо');
+INSERT INTO dictionary(word)
+VALUES ('тангаж');
+INSERT INTO dictionary(word)
+VALUES ('тандем');
+INSERT INTO dictionary(word)
+VALUES ('тарефа');
+INSERT INTO dictionary(word)
+VALUES ('таурид');
+INSERT INTO dictionary(word)
+VALUES ('твердь');
+INSERT INTO dictionary(word)
+VALUES ('творец');
+INSERT INTO dictionary(word)
+VALUES ('тексел');
+INSERT INTO dictionary(word)
+VALUES ('теллур');
+INSERT INTO dictionary(word)
+VALUES ('темень');
+INSERT INTO dictionary(word)
+VALUES ('тенета');
+INSERT INTO dictionary(word)
+VALUES ('тенетт');
+INSERT INTO dictionary(word)
+VALUES ('тензор');
+INSERT INTO dictionary(word)
+VALUES ('тениты');
+INSERT INTO dictionary(word)
+VALUES ('теозоф');
+INSERT INTO dictionary(word)
+VALUES ('теорик');
+INSERT INTO dictionary(word)
+VALUES ('термин');
+INSERT INTO dictionary(word)
+VALUES ('тернев');
+INSERT INTO dictionary(word)
+VALUES ('терсия');
+INSERT INTO dictionary(word)
+VALUES ('тетрас');
+INSERT INTO dictionary(word)
+VALUES ('тетрил');
+INSERT INTO dictionary(word)
+VALUES ('тетрод');
+INSERT INTO dictionary(word)
+VALUES ('тефлон');
+INSERT INTO dictionary(word)
+VALUES ('техина');
+INSERT INTO dictionary(word)
+VALUES ('тиамин');
+INSERT INTO dictionary(word)
+VALUES ('тибурн');
+INSERT INTO dictionary(word)
+VALUES ('тимома');
+INSERT INTO dictionary(word)
+VALUES ('тинкал');
+INSERT INTO dictionary(word)
+VALUES ('тиолит');
+INSERT INTO dictionary(word)
+VALUES ('тиоцин');
+INSERT INTO dictionary(word)
+VALUES ('типчик');
+INSERT INTO dictionary(word)
+VALUES ('титька');
+INSERT INTO dictionary(word)
+VALUES ('тифоид');
+INSERT INTO dictionary(word)
+VALUES ('тканье');
+INSERT INTO dictionary(word)
+VALUES ('тобико');
+INSERT INTO dictionary(word)
+VALUES ('тоемец');
+INSERT INTO dictionary(word)
+VALUES ('тойота');
+INSERT INTO dictionary(word)
+VALUES ('томоит');
+INSERT INTO dictionary(word)
+VALUES ('тоямец');
+INSERT INTO dictionary(word)
+VALUES ('травма');
+INSERT INTO dictionary(word)
+VALUES ('трагия');
+INSERT INTO dictionary(word)
+VALUES ('трепет');
+INSERT INTO dictionary(word)
+VALUES ('триоль');
+INSERT INTO dictionary(word)
+VALUES ('трирец');
+INSERT INTO dictionary(word)
+VALUES ('тритон');
+INSERT INTO dictionary(word)
+VALUES ('трогон');
+INSERT INTO dictionary(word)
+VALUES ('труизм');
+INSERT INTO dictionary(word)
+VALUES ('тряска');
+INSERT INTO dictionary(word)
+VALUES ('тсонга');
+INSERT INTO dictionary(word)
+VALUES ('тузлук');
+INSERT INTO dictionary(word)
+VALUES ('тулово');
+INSERT INTO dictionary(word)
+VALUES ('тунгид');
+INSERT INTO dictionary(word)
+VALUES ('тупица');
+INSERT INTO dictionary(word)
+VALUES ('турнуа');
+INSERT INTO dictionary(word)
+VALUES ('тфилин');
+INSERT INTO dictionary(word)
+VALUES ('тюлень');
+INSERT INTO dictionary(word)
+VALUES ('тюрьма');
+INSERT INTO dictionary(word)
+VALUES ('уарина');
+INSERT INTO dictionary(word)
+VALUES ('убогий');
+INSERT INTO dictionary(word)
+VALUES ('убоина');
+INSERT INTO dictionary(word)
+VALUES ('увелец');
+INSERT INTO dictionary(word)
+VALUES ('уволог');
+INSERT INTO dictionary(word)
+VALUES ('угарец');
+INSERT INTO dictionary(word)
+VALUES ('уголье');
+INSERT INTO dictionary(word)
+VALUES ('удавка');
+INSERT INTO dictionary(word)
+VALUES ('уженье');
+INSERT INTO dictionary(word)
+VALUES ('уметец');
+INSERT INTO dictionary(word)
+VALUES ('умолот');
+INSERT INTO dictionary(word)
+VALUES ('уразин');
+INSERT INTO dictionary(word)
+VALUES ('уралит');
+INSERT INTO dictionary(word)
+VALUES ('урамил');
+INSERT INTO dictionary(word)
+VALUES ('уранат');
+INSERT INTO dictionary(word)
+VALUES ('урарту');
+INSERT INTO dictionary(word)
+VALUES ('уреаза');
+INSERT INTO dictionary(word)
+VALUES ('уретра');
+INSERT INTO dictionary(word)
+VALUES ('уроний');
+INSERT INTO dictionary(word)
+VALUES ('урофаг');
+INSERT INTO dictionary(word)
+VALUES ('усигит');
+INSERT INTO dictionary(word)
+VALUES ('уторка');
+INSERT INTO dictionary(word)
+VALUES ('уфолог');
+INSERT INTO dictionary(word)
+VALUES ('фагана');
+INSERT INTO dictionary(word)
+VALUES ('факоид');
+INSERT INTO dictionary(word)
+VALUES ('фасоль');
+INSERT INTO dictionary(word)
+VALUES ('феддан');
+INSERT INTO dictionary(word)
+VALUES ('фелонь');
+INSERT INTO dictionary(word)
+VALUES ('фемура');
+INSERT INTO dictionary(word)
+VALUES ('фередж');
+INSERT INTO dictionary(word)
+VALUES ('фермий');
+INSERT INTO dictionary(word)
+VALUES ('феррит');
+INSERT INTO dictionary(word)
+VALUES ('фефела');
+INSERT INTO dictionary(word)
+VALUES ('физфак');
+INSERT INTO dictionary(word)
+VALUES ('фиксаж');
+INSERT INTO dictionary(word)
+VALUES ('фикция');
+INSERT INTO dictionary(word)
+VALUES ('филфак');
+INSERT INTO dictionary(word)
+VALUES ('фингал');
+INSERT INTO dictionary(word)
+VALUES ('фирлот');
+INSERT INTO dictionary(word)
+VALUES ('фишинг');
+INSERT INTO dictionary(word)
+VALUES ('флавен');
+INSERT INTO dictionary(word)
+VALUES ('флибот');
+INSERT INTO dictionary(word)
+VALUES ('фомизм');
+INSERT INTO dictionary(word)
+VALUES ('фордек');
+INSERT INTO dictionary(word)
+VALUES ('форель');
+INSERT INTO dictionary(word)
+VALUES ('фортка');
+INSERT INTO dictionary(word)
+VALUES ('форшок');
+INSERT INTO dictionary(word)
+VALUES ('фотизм');
+INSERT INTO dictionary(word)
+VALUES ('франги');
+INSERT INTO dictionary(word)
+VALUES ('фугато');
+INSERT INTO dictionary(word)
+VALUES ('фуддер');
+INSERT INTO dictionary(word)
+VALUES ('фуроин');
+INSERT INTO dictionary(word)
+VALUES ('фустаж');
+INSERT INTO dictionary(word)
+VALUES ('фустик');
+INSERT INTO dictionary(word)
+VALUES ('хастит');
+INSERT INTO dictionary(word)
+VALUES ('хеджер');
+INSERT INTO dictionary(word)
+VALUES ('хешвон');
+INSERT INTO dictionary(word)
+VALUES ('хибара');
+INSERT INTO dictionary(word)
+VALUES ('хиджра');
+INSERT INTO dictionary(word)
+VALUES ('хлебец');
+INSERT INTO dictionary(word)
+VALUES ('ходики');
+INSERT INTO dictionary(word)
+VALUES ('холдем');
+INSERT INTO dictionary(word)
+VALUES ('холтит');
+INSERT INTO dictionary(word)
+VALUES ('хоспис');
+INSERT INTO dictionary(word)
+VALUES ('храпак');
+INSERT INTO dictionary(word)
+VALUES ('храпун');
+INSERT INTO dictionary(word)
+VALUES ('хромил');
+INSERT INTO dictionary(word)
+VALUES ('хромис');
+INSERT INTO dictionary(word)
+VALUES ('хуррит');
+INSERT INTO dictionary(word)
+VALUES ('хэккер');
+INSERT INTO dictionary(word)
+VALUES ('центон');
+INSERT INTO dictionary(word)
+VALUES ('цербер');
+INSERT INTO dictionary(word)
+VALUES ('цереус');
+INSERT INTO dictionary(word)
+VALUES ('цзинец');
+INSERT INTO dictionary(word)
+VALUES ('цианин');
+INSERT INTO dictionary(word)
+VALUES ('цибела');
+INSERT INTO dictionary(word)
+VALUES ('цинеол');
+INSERT INTO dictionary(word)
+VALUES ('цинкат');
+INSERT INTO dictionary(word)
+VALUES ('цитаза');
+INSERT INTO dictionary(word)
+VALUES ('цоколь');
+INSERT INTO dictionary(word)
+VALUES ('цунами');
+INSERT INTO dictionary(word)
+VALUES ('чаинка');
+INSERT INTO dictionary(word)
+VALUES ('чайтья');
+INSERT INTO dictionary(word)
+VALUES ('чакира');
+INSERT INTO dictionary(word)
+VALUES ('чартер');
+INSERT INTO dictionary(word)
+VALUES ('чаусец');
+INSERT INTO dictionary(word)
+VALUES ('чембур');
+INSERT INTO dictionary(word)
+VALUES ('чепрак');
+INSERT INTO dictionary(word)
+VALUES ('черная');
+INSERT INTO dictionary(word)
+VALUES ('четыре');
+INSERT INTO dictionary(word)
+VALUES ('чигирь');
+INSERT INTO dictionary(word)
+VALUES ('чикано');
+INSERT INTO dictionary(word)
+VALUES ('читака');
+INSERT INTO dictionary(word)
+VALUES ('чревье');
+INSERT INTO dictionary(word)
+VALUES ('чудеса');
+INSERT INTO dictionary(word)
+VALUES ('чудила');
+INSERT INTO dictionary(word)
+VALUES ('чудиха');
+INSERT INTO dictionary(word)
+VALUES ('чудной');
+INSERT INTO dictionary(word)
+VALUES ('чумной');
+INSERT INTO dictionary(word)
+VALUES ('чурбан');
+INSERT INTO dictionary(word)
+VALUES ('чуруки');
+INSERT INTO dictionary(word)
+VALUES ('шалтай');
+INSERT INTO dictionary(word)
+VALUES ('шаньга');
+INSERT INTO dictionary(word)
+VALUES ('шароле');
+INSERT INTO dictionary(word)
+VALUES ('шаурма');
+INSERT INTO dictionary(word)
+VALUES ('шведки');
+INSERT INTO dictionary(word)
+VALUES ('шеврет');
+INSERT INTO dictionary(word)
+VALUES ('шейдер');
+INSERT INTO dictionary(word)
+VALUES ('шелюга');
+INSERT INTO dictionary(word)
+VALUES ('шизонт');
+INSERT INTO dictionary(word)
+VALUES ('шипинг');
+INSERT INTO dictionary(word)
+VALUES ('шлёпка');
+INSERT INTO dictionary(word)
+VALUES ('шмельц');
+INSERT INTO dictionary(word)
+VALUES ('шовчик');
+INSERT INTO dictionary(word)
+VALUES ('шорная');
+INSERT INTO dictionary(word)
+VALUES ('штранд');
+INSERT INTO dictionary(word)
+VALUES ('штювер');
+INSERT INTO dictionary(word)
+VALUES ('шумиха');
+INSERT INTO dictionary(word)
+VALUES ('щавель');
+INSERT INTO dictionary(word)
+VALUES ('щетина');
+INSERT INTO dictionary(word)
+VALUES ('эбонит');
+INSERT INTO dictionary(word)
+VALUES ('эвекта');
+INSERT INTO dictionary(word)
+VALUES ('эгирин');
+INSERT INTO dictionary(word)
+VALUES ('экбите');
+INSERT INTO dictionary(word)
+VALUES ('экотип');
+INSERT INTO dictionary(word)
+VALUES ('эламит');
+INSERT INTO dictionary(word)
+VALUES ('элегаз');
+INSERT INTO dictionary(word)
+VALUES ('элемол');
+INSERT INTO dictionary(word)
+VALUES ('эленол');
+INSERT INTO dictionary(word)
+VALUES ('эмфаза');
+INSERT INTO dictionary(word)
+VALUES ('энация');
+INSERT INTO dictionary(word)
+VALUES ('эндост');
+INSERT INTO dictionary(word)
+VALUES ('энозис');
+INSERT INTO dictionary(word)
+VALUES ('энотур');
+INSERT INTO dictionary(word)
+VALUES ('энофил');
+INSERT INTO dictionary(word)
+VALUES ('энтада');
+INSERT INTO dictionary(word)
+VALUES ('эпагон');
+INSERT INTO dictionary(word)
+VALUES ('эпирец');
+INSERT INTO dictionary(word)
+VALUES ('эпитип');
+INSERT INTO dictionary(word)
+VALUES ('эпроуч');
+INSERT INTO dictionary(word)
+VALUES ('эрозия');
+INSERT INTO dictionary(word)
+VALUES ('эругит');
+INSERT INTO dictionary(word)
+VALUES ('этенон');
+INSERT INTO dictionary(word)
+VALUES ('эфорат');
+INSERT INTO dictionary(word)
+VALUES ('эшевен');
+INSERT INTO dictionary(word)
+VALUES ('ютурна');
+INSERT INTO dictionary(word)
+VALUES ('язычок');
+INSERT INTO dictionary(word)
+VALUES ('яичник');
+INSERT INTO dictionary(word)
+VALUES ('яканье');
+INSERT INTO dictionary(word)
+VALUES ('ямакис');
+INSERT INTO dictionary(word)
+VALUES ('ятанин');
+INSERT INTO dictionary(word)
+VALUES ('ятовье');
+INSERT INTO dictionary(word)
+VALUES ('ятрина');

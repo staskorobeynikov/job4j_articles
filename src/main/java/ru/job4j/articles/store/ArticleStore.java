@@ -56,7 +56,7 @@ public class ArticleStore implements Store<Article>, AutoCloseable {
     @Override
     public Article save(Article model) {
         LOGGER.info("Сохранение статьи");
-        var sql = "insert into articles(text) values(?)";
+        var sql = "INSERT INTO articles(text) VALUES(?)";
         try (var statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
             statement.setString(1, model.getText());
             statement.executeUpdate();
@@ -74,7 +74,7 @@ public class ArticleStore implements Store<Article>, AutoCloseable {
     @Override
     public List<Article> findAll() {
         LOGGER.info("Загрузка всех статей");
-        var sql = "select * from articles";
+        var sql = "SELECT * FROM articles";
         var articles = new ArrayList<Article>();
         try (var statement = connection.prepareStatement(sql)) {
             var selection = statement.executeQuery();

@@ -68,7 +68,7 @@ public class WordStore implements Store<Word>, AutoCloseable {
     @Override
     public Word save(Word model) {
         LOGGER.info("Добавление слова в базу данных");
-        var sql = "insert into dictionary(word) values(?);";
+        var sql = "INSERT INTO dictionary(word) VALUES(?);";
         try (var statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
             statement.setString(1, model.getValue());
             statement.executeUpdate();
@@ -86,7 +86,7 @@ public class WordStore implements Store<Word>, AutoCloseable {
     @Override
     public List<Word> findAll() {
         LOGGER.info("Загрузка всех слов");
-        var sql = "select * from dictionary";
+        var sql = "SELECT * FROM dictionary";
         var words = new ArrayList<Word>();
         try (var statement = connection.prepareStatement(sql)) {
             var selection = statement.executeQuery();
